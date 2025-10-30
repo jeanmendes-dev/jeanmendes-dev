@@ -12,14 +12,8 @@
     Building <b>reproducible, regulatory-compliant R workflows</b> for clinical research, drug development, and industrial statistics.
   </p>
   
-  <a href="mailto:jeanmlv.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
   <a href="https://linkedin.com/in/jean-mendes-0a455680">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://rforbio.github.io">
-    <img src="https://img.shields.io/badge/Blog-2088FF?style=for-the-badge&logo=r&logoColor=white" alt="Blog">
   </a>
 </div>
 
