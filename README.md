@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://www.r-project.org/logo/Rlogo.svg" width="120" alt="R logo">
   <h1>Hi, I'm Jean Mendes</h1>
-  <h3>Biostatistician | R Developer | Clinical & Pharmaceutical Data Scientist</h3>
+  <h3>Biostatistician | R Developer | Clinical, Industrial & Pharma Data Scientist</h3>
   
   <p>
     Building <b>reproducible, regulatory-compliant R workflows</b> for clinical research, drug development, and industrial statistics.
