@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rforbio/rforbio/main/assets/r_logo.png" width="120" alt="R logo">
+  <img src="https://www.r-project.org/logo/Rlogo.svg" width="120" alt="R logo">
   <h1>Hi, I'm Jean Mendes</h1>
   <h3>Biostatistician | R Developer | Clinical & Pharmaceutical Data Scientist</h3>
   
