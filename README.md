@@ -35,10 +35,10 @@ All code follows **GxP-inspired best practices**: version control, documentation
 
 | Project | Description | Tech |
 |--------|------------|------|
-| [`clinical-report-engine`](https://github.com/rforbio/clinical-report-engine) | Automated TLFs (Tables, Listings, Figures) for Phase I–III trials | `rmarkdown`, `gt`, `officer`, `tidyverse` |
-| [`pkpd-simulator`](https://github.com/rforbio/pkpd-simulator) | Simulate & visualize drug concentration-time profiles | `deSolve`, `ggplot2`, `shiny` |
-| [`doe-pharma`](https://github.com/rforbio/doe-pharma) | Design & analyze validation experiments (e.g., sterilization, mixing) | `rsm`, `FrF2`, `emmeans` |
-| [`rwe-survival`](https://github.com/rforbio/rwe-survival) | Real-world evidence survival analysis with Brazilian SUS data | `survival`, `lubridate`, `broom` |
+| [`clinical-report-engine`]([https://github.com/jeanmendes-dev/clinical-report-engine) | Automated TLFs (Tables, Listings, Figures) for Phase I–III trials | `rmarkdown`, `gt`, `officer`, `tidyverse` |
+| [`pkpd-simulator`](https://github.com/jeanmendes-dev/pkpd-simulator) | Simulate & visualize drug concentration-time profiles | `deSolve`, `ggplot2`, `shiny` |
+| [`doe-pharma`](https://github.com/jeanmendes-dev/doe-pharma) | Design & analyze validation experiments (e.g., sterilization, mixing) | `rsm`, `FrF2`, `emmeans` |
+| [`rwe-survival`](https://github.com/jeanmendes-dev/rwe-survival) | Real-world evidence survival analysis with Brazilian SUS data | `survival`, `lubridate`, `broom` |
 
 > 💡 **All projects use simulated or public data** — compliant with data privacy standards.
 
@@ -48,8 +48,9 @@ All code follows **GxP-inspired best practices**: version control, documentation
 <p align="left">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R">
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white" alt="RStudio">
+  <img src="https://img.shields.io/badge/RMarkdown-CC2222?style=flat&logo=r&logoColor=white" alt="RMarkdown">
   <img src="https://img.shields.io/badge/Shiny-38A1DB?style=flat&logo=r&logoColor=white" alt="Shiny">
-  <img src="https://img.shields.io/badge/tidyverse-1A1A1A?style=flat&logo=r&logoColor=white" alt="tidyverse">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
