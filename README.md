@@ -61,7 +61,7 @@ All code follows **GxP-inspired best practices**: version control, documentation
 ### 📈 Stats
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeanmendes-dev&show_icons=true&theme=dark&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmendes-dev&layout=compact&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmendes-dev&layout=compact&theme=dark&include_all_commits=true" />
 </div>
 
 ---
