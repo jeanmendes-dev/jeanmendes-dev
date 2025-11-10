@@ -36,7 +36,7 @@ All code follows **GxP-inspired best practices**: version control, documentation
 | Project | Description | Tech |
 |--------|------------|------|
 | [`clinical-report-engine`](https://github.com/jeanmendes-dev/clinical-report-engine) | Automated TLFs (Tables, Listings, Figures) for Phase I–III trials | `rmarkdown`, `gt`, `officer`, `tidyverse` |
-| [`pkpd-simulator`](https://github.com/jeanmendes-dev/pkpd-simulator) | Simulate & visualize drug concentration-time profiles | `deSolve`, `ggplot2`, `shiny` |
+| [`pk-simulator`](https://github.com/jeanmendes-dev/pk-simulator) | Simulate & visualize drug concentration-time profiles | `deSolve`, `ggplot2`, `shiny` |
 | [`doe-pharma`](https://github.com/jeanmendes-dev/doe-pharma) | Design & analyze validation experiments (e.g., sterilization, mixing) | `rsm`, `FrF2`, `emmeans` |
 | [`rwe-survival`](https://github.com/jeanmendes-dev/rwe-survival) | Real-world evidence survival analysis with Brazilian SUS data | `survival`, `lubridate`, `broom` |
 
