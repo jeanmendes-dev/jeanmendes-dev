@@ -26,7 +26,7 @@ I develop **open-source R tools** to solve real-world problems in:
 - ✅ **Pharmaceutical Process Validation** (DoE, SPC, capability analysis)  
 - ✅ **Regulatory Reporting** (CDISC ADaM, TLFs with `rmarkdown` + `officer`)  
 - ✅ **Bioinformatics & Statistical Genetics** (GWAS, differential expression, variant annotation, polygenic risk scoring)  
-- ✅ **Interactive Dashboards** for data review (`shiny`, `golem`, `plotly`)
+- ✅ **Interactive Dashboards** (`shiny`, `golem`, `plotly`)
 
 All code follows **GxP-inspired best practices**: version control, documentation, testing, and audit trails — now extended to **FAIR genomic data principles**.
 
