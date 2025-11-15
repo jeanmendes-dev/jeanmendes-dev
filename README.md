@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://www.r-project.org/logo/Rlogo.svg" width="100" alt="R logo">
   <h1>Jean Mendes</h1>
-  <h3>Biostatistician | SaaS Developer | Data Scientist</h3>
+  <h3>Biostatistician | Quantitative Pharmacology Engineer | SaaS Architect</h3>
   <p>
     <strong>R-based engineering</strong> for regulated domains — from clinical trial reporting to rentable analytics platforms.<br>
     All workflows follow <em>GxP-inspired practices</em>: version control, auditability, testing, and FAIR principles.
@@ -15,6 +15,7 @@
   <a href="https://linkedin.com/in/jean-mendes-0a455680">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  
   <a href="mailto:jeanmlv.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
