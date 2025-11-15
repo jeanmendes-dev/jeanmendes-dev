@@ -41,7 +41,6 @@ All code follows **GxP-inspired best practices**: version control, documentation
 | [`doe-pharma`](https://github.com/jeanmendes-dev/doe-pharma) | Design & analyze validation experiments (e.g., sterilization, mixing) | `rsm`, `FrF2`, `emmeans` |
 | [`rwe-survival`](https://github.com/jeanmendes-dev/rwe-survival) | Real-world evidence survival analysis with Brazilian SUS data | `survival`, `lubridate`, `broom` |
 | [`geno-qc-pipeline`](https://github.com/jeanmendes-dev/geno-qc-pipeline) | Automated QC & preprocessing for genomic cohort data (microarray/RNA-seq) | `limma`, `sva`, `Biobase`, `ggplot2` |
-| **[`prs-toolkit`](#)** *(in progress)* | Streamlined PRS calculation using GWAS summary stats (LDpred2-compatible) | `bigsnpr`, `snpStats`, `data.table` |
 | **[`pharmaco-gx`](#)** *(in progress)* | Pharmacogenomics explorer: drug-gene interaction dashboard + survival by genotype | `PharmacoGx`, `survival`, `shiny` |
 
 > 💡 **All projects use simulated or public data** — compliant with data privacy & ethics standards (e.g., dbGaP-style de-identification).
