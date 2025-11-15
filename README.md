@@ -15,27 +15,21 @@
   <a href="https://linkedin.com/in/jean-mendes-0a455680">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:contact@jeanmendes.dev">
+  <a href="mailto:jeanmlv.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 
 ---
 
-### 🔬 Focus Areas
-
-I design and deploy **production-grade R systems** that bridge statistical rigor and operational needs:
-
-- **Clinical Trials & RWE**  
-  Survival modeling, mixed-effects, ADaM/TLF automation (`rmarkdown`, `officer`, `gt`), SUS data analysis  
-- **Quantitative Pharmacology**  
-  NCA, PK/PD simulation, dose-exposure-response (`nlme`, `deSolve`, `mrgsolve`)  
-- **Industrial & Process Statistics**  
-  DoE (screening, optimization), SPC, capability studies (`rsm`, `qcc`, `SixSigma`)  
-- **SaaS Development**  
-  Shiny/Golem apps packaged for multi-tenant deployment (Docker, Plumber APIs, cloud-ready CI/CD)  
-- **Regulatory-Ready Workflows**  
-  CDISC mapping, audit trails, documentation (Roxygen2, `pkgdown`), `renv`-locked environments  
+### 🔬 What I Do
+I develop **open-source R tools** to solve real-world problems in:
+- ✅ **Clinical Trial Analysis** (survival models, mixed-effects, interim monitoring)  
+- ✅ **PK/PD & Quantitative Pharmacology** (non-compartmental analysis, simulation)  
+- ✅ **Pharmaceutical Process Validation** (DoE, SPC, capability analysis)  
+- ✅ **Regulatory Reporting** (CDISC ADaM, TLFs with `rmarkdown` + `officer`)  
+- ✅ **SaaS Development** — end-to-end R-powered applications for rent
+- ✅ **Interactive Dashboards** (`shiny`, `golem`, `plotly`) deployed via Docker, GitHub Actions, and cloud infra 
 
 > 📜 *Every pipeline is built with reproducibility as the default — not an afterthought.*
 
@@ -50,26 +44,35 @@ I design and deploy **production-grade R systems** that bridge statistical rigor
 | [`doe-pharma`](https://github.com/jeanmendes-dev/doe-pharma) | Design & analysis of validation studies (e.g., sterilization) | `FrF2`, `rsm`, `emmeans`, `plotly` |
 | [`rwe-survival`](https://github.com/jeanmendes-dev/rwe-survival) | Survival analysis on real-world Brazilian health data | `survival`, `lubridate`, `broom`, `tidycmprsk` |
 
-> 🔐 All datasets are simulated, synthetic, or publicly de-identified — compliant with GDPR/HIPAA/DataSUS standards.
+> 🔐 All datasets are simulated, synthetic, or publicly de-identified.
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Core Stack
+<p align="left">
+  <!-- R ecosystem -->
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white" alt="RStudio">
+  <img src="https://img.shields.io/badge/RMarkdown-CC2222?style=flat&logo=r&logoColor=white" alt="RMarkdown">
+  <img src="https://img.shields.io/badge/Shiny-38A1DB?style=flat&logo=r&logoColor=white" alt="Shiny">
+  <img src="https://img.shields.io/badge/golem-4285F4?style=flat&logo=r&logoColor=white" alt="golem">
 
-<div align="center">
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white" alt="RStudio">
-  <img src="https://img.shields.io/badge/Shiny-38A1DB?logo=r&logoColor=white" alt="Shiny">
-  <img src="https://img.shields.io/badge/golem-4285F4?logo=r&logoColor=white" alt="golem">
-  <img src="https://img.shields.io/badge/Plumber-FF6F61?logo=r&logoColor=white" alt="Plumber">
-  <img src="https://img.shields.io/badge/rmarkdown-CC2222?logo=r&logoColor=white" alt="rmarkdown">
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/renv-359B73?logo=r&logoColor=white" alt="renv">
-</div>
+  <!-- Web & API -->
+  <img src="https://img.shields.io/badge/Plumber-FF6F61?style=flat&logo=r&logoColor=white" alt="Plumber">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  
+  <!-- DevOps & Deployment -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/renv-359B73?style=flat&logo=r&logoColor=white" alt="renv">
+  
+  <!-- Data & Infra -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+</p>
 
 ---
 
@@ -82,13 +85,3 @@ I design and deploy **production-grade R systems** that bridge statistical rigor
 
 > While code is central — **impact is measured in reproducibility, auditability, and deployability**.  
 > I build tools that survive regulatory scrutiny *and* user adoption: statistical correctness, wrapped in intuitive interfaces, delivered as scalable services.
-
----
-
-### 📈 Stats
-<div align="center">
-  <!-- (Você pode adicionar aqui seus badges do GitHub, como linguagens, streak, etc.) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jeanmendes-dev&show_icons=true&theme=radical" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmendes-dev&layout=compact&theme=radical" />
-</div>
