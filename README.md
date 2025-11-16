@@ -7,10 +7,10 @@
   <img src="https://www.r-project.org/logo/Rlogo.svg" width="100" alt="R logo">
   <h1>Jean Mendes</h1>
   <h3>Biostatistician | Statistical Engineer | SaaS Architect</h3>
-  <p>
-    <strong>R-based engineering</strong> for regulated domains — from clinical trial reporting to rentable analytics platforms.<br>
-    All workflows follow <em>GxP-inspired practices</em>: version control, auditability, testing, and FAIR principles.
-  </p>
+ <p>
+  Designing <strong>auditable statistical systems</strong> for high-stakes domains — clinical, industrial, public health, and quantitative decision-making.<br>
+  Every workflow embodies <em>engineering-grade statistics</em>: reproducibility by design, full audit trails, formal validation, and FAIR data principles — <strong>extending GxP rigor beyond compliance into scalable, rentable solutions</strong>.
+ </p>
 
   <div style="display: inline-flex; gap: 12px; align-items: center;">
     <a href="https://linkedin.com/in/jean-mendes-0a455680">
