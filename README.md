@@ -33,8 +33,6 @@ I develop **open-source R tools** to solve real-world problems in:
 - ✅ **SaaS Development** — end-to-end R-powered applications for rent
 - ✅ **Interactive Dashboards** (`shiny`, `golem`, `plotly`) deployed via Docker, GitHub Actions, and cloud infra 
 
-> 📜 *Every pipeline is built with reproducibility as the default — not an afterthought.*
-
 ---
 
 ### 📦 Selected Projects
@@ -45,8 +43,6 @@ I develop **open-source R tools** to solve real-world problems in:
 | [`pk-simulator`](https://github.com/jeanmendes-dev/pk-simulator) | Interactive PK profile simulator & visualizer | `deSolve`, `shiny`, `ggplot2`, `golem` |
 | [`doe-pharma`](https://github.com/jeanmendes-dev/doe-pharma) | Design & analysis of validation studies (e.g., sterilization) | `FrF2`, `rsm`, `emmeans`, `plotly` |
 | [`rwe-survival`](https://github.com/jeanmendes-dev/rwe-survival) | Survival analysis on real-world Brazilian health data | `survival`, `lubridate`, `broom`, `tidycmprsk` |
-
-> 🔐 All datasets are simulated, synthetic, or publicly de-identified.
 
 ---
 
