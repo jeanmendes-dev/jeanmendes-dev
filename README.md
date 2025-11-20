@@ -83,9 +83,8 @@ I develop **open-source R tools** to solve real-world problems in:
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
 
 <!-- Compliance & Biostatistics -->
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/21CFR_Part_11-005F3E?style=flat&logo=adobe&logoColor=white" alt="21 CFR Part 11">
+<img src="https://img.shields.io/badge/CDISC-9C27B0?style=flat&logo=edifact&logoColor=white" alt="CDISC">
 </p>
 
 ---
