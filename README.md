@@ -46,30 +46,46 @@ I develop **open-source R tools** to solve real-world problems in:
 
 ---
 
-### 🛠️ Core Stack
+🛠️ Core Stack
 <p align="left">
-  <!-- R ecosystem -->
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white" alt="RStudio">
-  <img src="https://img.shields.io/badge/RMarkdown-CC2222?style=flat&logo=r&logoColor=white" alt="RMarkdown">
-  <img src="https://img.shields.io/badge/Shiny-38A1DB?style=flat&logo=r&logoColor=white" alt="Shiny">
-  <img src="https://img.shields.io/badge/golem-4285F4?style=flat&logo=r&logoColor=white" alt="golem">
+<!-- R ecosystem -->
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R">
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white" alt="RStudio">
+<img src="https://img.shields.io/badge/RMarkdown-CC2222?style=flat&logo=r&logoColor=white" alt="RMarkdown">
+<img src="https://img.shields.io/badge/Shiny-38A1DB?style=flat&logo=r&logoColor=white" alt="Shiny">
+<img src="https://img.shields.io/badge/golem-4285F4?style=flat&logo=r&logoColor=white" alt="golem">
+<img src="https://img.shields.io/badge/Plumber-FF6F61?style=flat&logo=r&logoColor=white" alt="Plumber">
 
-  <!-- Web & API -->
-  <img src="https://img.shields.io/badge/Plumber-FF6F61?style=flat&logo=r&logoColor=white" alt="Plumber">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  
-  <!-- DevOps & Deployment -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/renv-359B73?style=flat&logo=r&logoColor=white" alt="renv">
-  
-  <!-- Data & Infra -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+<!-- Python ecosystem -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+
+<!-- Web & API -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+
+<!-- DevOps & Deployment -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/renv-359B73?style=flat&logo=r&logoColor=white" alt="renv">
+<img src="https://img.shields.io/badge/poetry-623CE4?style=flat&logo=poetry&logoColor=white" alt="Poetry">
+<img src="https://img.shields.io/badge/virtualenv-00A878?style=flat&logo=virtualenv&logoColor=white" alt="virtualenv">
+
+<!-- Data & Infra -->
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+
+<!-- Compliance & Biostatistics -->
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
 </p>
 
 ---
