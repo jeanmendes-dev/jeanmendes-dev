@@ -92,8 +92,8 @@ I develop **open-source R tools** to solve real-world problems in:
 ### 📊 Activity & Impact
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeanmendes-dev&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmendes-dev&layout=compact&theme=highcontrast&langs_count=6" height="150" alt="Top Languages" />
+ <img src="https://streak-stats.demolab.com/?user=jeanmendes-dev&theme=highcontrast&border_radius=10" height="150" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeanmendes-dev&bg_color=0d1117&color=ffffff&line=00ff00&point=00ff00&hide_border=true" height="150" />
 </div>
 
 > While code is foundational — **impact is measured in reproducibility, auditability, and deployability**.  
