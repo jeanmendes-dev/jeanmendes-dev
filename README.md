@@ -92,9 +92,9 @@ I develop **open-source R tools** to solve real-world problems in:
 ### 📊 Activity & Impact
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeanmendes-dev&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmendes-dev&layout=compact&theme=highcontrast&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeanmendes-dev&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmendes-dev&layout=compact&theme=highcontrast&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
-> While code is central — **impact is measured in reproducibility, auditability, and deployability**.  
-> I build tools that survive regulatory scrutiny *and* user adoption: statistical correctness, wrapped in intuitive interfaces, delivered as scalable services.
+> While code is foundational — **impact is measured in reproducibility, auditability, and deployability**.  
+> I build tools that survive regulatory scrutiny *and* user adoption: statistically rigorous solutions, wrapped in intuitive interfaces, delivered as scalable, production-ready services.
