@@ -89,7 +89,7 @@ I develop **open-source R tools** to solve real-world problems in:
 
 ---
 
-### 📊 Activity & Impact
+### 📊 Activity & Impact [![GitHub Streak](https://streak-stats.demolab.com/?user=jeanmendes-dev&theme=highcontrast&border_radius=10)](https://github.com/jeanmendes-dev)
 
 <div align="center">
  <img src="https://streak-stats.demolab.com/?user=jeanmendes-dev&theme=highcontrast&border_radius=10" height="150" />
