@@ -91,10 +91,5 @@ I develop **open-source R tools** to solve real-world problems in:
 
 ### 📊 Activity & Impact
 
-<div align="center">
- <img src="https://streak-stats.demolab.com/?user=jeanmendes-dev&theme=highcontrast&border_radius=10" height="150" />
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeanmendes-dev&bg_color=0d1117&color=ffffff&line=00ff00&point=00ff00&hide_border=true" height="150" />
-</div>
-
 > While code is foundational — **impact is measured in reproducibility, auditability, and deployability**.  
 > I build tools that survive regulatory scrutiny *and* user adoption: statistically rigorous solutions, wrapped in intuitive interfaces, delivered as scalable, production-ready services.
