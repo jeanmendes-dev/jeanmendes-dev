@@ -26,12 +26,12 @@
 ### 🔬 What I Do
 
 I develop **open-source R tools** to solve real-world problems in:
-✅ **Clinical Trial Analysis** (survival models, mixed-effects, interim monitoring)  
-✅ **PK/PD & Quantitative Pharmacology** (non-compartmental analysis, simulation)  
-✅ **Pharmaceutical Process Validation** (DoE, SPC, capability analysis)  
-✅ **Regulatory Reporting** (CDISC ADaM, TLFs with `rmarkdown` + `officer`)  
-✅ **SaaS Development** — end-to-end R-powered applications for rent
-✅ **Interactive Dashboards** (`shiny`, `golem`, `plotly`) deployed via Docker, GitHub Actions, and cloud infra 
+- ✅ **Clinical Trial Analysis** (survival models, mixed-effects, interim monitoring)  
+- ✅ **PK/PD & Quantitative Pharmacology** (non-compartmental analysis, simulation)  
+- ✅ **Pharmaceutical Process Validation** (DoE, SPC, capability analysis)  
+- ✅ **Regulatory Reporting** (CDISC ADaM, TLFs with `rmarkdown` + `officer`)  
+- ✅ **SaaS Development** — end-to-end R-powered applications for rent
+- ✅ **Interactive Dashboards** (`shiny`, `golem`, `plotly`) deployed via Docker, GitHub Actions, and cloud infra 
 
 ---
 
