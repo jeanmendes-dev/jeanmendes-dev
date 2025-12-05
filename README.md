@@ -43,7 +43,7 @@ I develop **open-source R tools** to solve real-world problems in:
 | [`clinical-report-engine`](https://github.com/jeanmendes-dev/clinical-report-engine) | Automated TLF generation for Phases I–III | `rmarkdown`, `gt`, `officer`, `tidyverse` |
 | [`pk-simulator`](https://github.com/jeanmendes-dev/pk-simulator) | Interactive PK profile simulator & visualizer | `deSolve`, `shiny`, `ggplot2`, `golem` |
 | [`doe-pharma`](https://github.com/jeanmendes-dev/doe-pharma) | Design & analysis of validation studies (e.g., sterilization) | `FrF2`, `rsm`, `emmeans`, `plotly` |
-| [`rwe-survival`](https://github.com/jeanmendes-dev/rwe-survival) | Survival analysis on real-world Brazilian health data | `survival`, `lubridate`, `broom`, `tidycmprsk` |
+| [`clinical-compare`](https://github.com/jeanmendes-dev/clinical-compare) | Automated comparative group analysis for clinical/epidemiological studies — generates Table 1, visualizations, and adjusted models | `gtsummary`, `gt`, `ggplot2`, `tidyverse` |
 
 ---
 
