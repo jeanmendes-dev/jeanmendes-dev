@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://www.r-project.org/logo/Rlogo.svg" width="100" alt="R logo">
   <h1>Jean Mendes</h1>
-  <h3>Senior Biostatistician | R Statistical Engineer | Clinical & Regulatory Analytics</h3>
+  <h3> Biostatistician | R Specialist | Clinical & Regulatory Analytics</h3>
 
   <p>
     I design <strong>regulatory-grade biostatistical systems</strong> using R, supporting the full analytical lifecycle of
@@ -56,7 +56,7 @@ I work primarily in **applied biostatistics**, with strong emphasis on statistic
 
 ---
 
-## 🧪 Statistical Engineering with R
+## 🧪 Statistical Analysis with R
 
 Beyond analysis, I engineer **production-ready statistical systems**:
 
