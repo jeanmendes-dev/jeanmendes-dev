@@ -4,9 +4,10 @@
 -->
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Emblem_of_Brazil.svg" width="90" alt="Public Sector Analytics">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Emblem_of_Brazil.svg" width="90" alt="Brasil">
   <h1>Jean Mendes</h1>
   <h3>Public Sector Analytics Specialist | Data-Driven Governance | Open Data & Policy Intelligence</h3>
+</div>
 
   <p>
     I design <strong>analytical intelligence systems for public sector decision-making</strong>, using open data and
