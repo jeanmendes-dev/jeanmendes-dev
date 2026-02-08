@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Emblem_of_Brazil.svg/90px-Emblem_of_Brazil.svg.png" width="90" alt="Brasil">
+  <img src="https://img.shields.io/badge/Open_Data-2E7D32?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTE5IDEzaC02djZoNm0tMTYgMGg2djZoLTZtMTYtMTBoNnY2aC02bTgtOGg2djZoLTZtLTgtOGg2djZoLTZtOC04aDZ2NmgtNiIvPjwvc3ZnPg==" width="90" alt="Open Data">
   <h1>Jean Mendes</h1>
   <h3>Public Sector Analytics Specialist | Data-Driven Governance | Open Data & Policy Intelligence</h3>
 </div>
