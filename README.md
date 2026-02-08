@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Emblem_of_Brazil.svg" width="90" alt="Brasil">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Emblem_of_Brazil.svg/90px-Emblem_of_Brazil.svg.png" width="90" alt="Brasil">
   <h1>Jean Mendes</h1>
   <h3>Public Sector Analytics Specialist | Data-Driven Governance | Open Data & Policy Intelligence</h3>
 </div>
