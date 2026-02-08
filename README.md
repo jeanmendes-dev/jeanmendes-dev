@@ -1,19 +1,19 @@
 <!-- 
   Profile README — Jean Mendes
-  Senior Biostatistics & R Statistical Engineering
+  Public Sector Analytics & Evidence-Based Governance
 -->
 
 <div align="center">
-  <img src="https://www.r-project.org/logo/Rlogo.svg" width="100" alt="R logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Emblem_of_Brazil.svg" width="90" alt="Public Sector Analytics">
   <h1>Jean Mendes</h1>
-  <h3> Biostatistician | R Specialist | Clinical & Regulatory Analytics</h3>
+  <h3>Public Sector Analytics Specialist | Data-Driven Governance | Open Data & Policy Intelligence</h3>
 
   <p>
-    I design <strong>regulatory-grade biostatistical systems</strong> using R, supporting the full analytical lifecycle of
-    <strong>clinical, epidemiological, and pharmaceutical studies</strong>.<br><br>
-    My work sits at the intersection of <em>biostatistics, statistical engineering, and reproducible science</em> —
-    delivering validated inference, transparent decision-making, and auditable pipelines aligned with
-    <strong>ICH E9, CDISC, GxP, and FAIR data principles</strong>.
+    I design <strong>analytical intelligence systems for public sector decision-making</strong>, using open data and
+    applied statistics to support <strong>planning, transparency, accountability, and performance management</strong>.<br><br>
+    My work sits at the intersection of <em>statistics, public management, and data engineering</em>,
+    translating complex data into <strong>actionable insights for policymakers, public managers, and control bodies</strong>,
+    aligned with principles of <strong>New Public Management, evidence-based policy, and open government</strong>.
   </p>
 
   <div style="display: inline-flex; gap: 12px; align-items: center;">
@@ -25,59 +25,63 @@
 
 ---
 
-## 🔬 Biostatistics Core Expertise
+## 🏛️ Public Sector Analytics — Core Expertise
 
-I work primarily in **applied biostatistics**, with strong emphasis on statistical validity, interpretability, and regulatory defensibility:
+I work with **applied analytics for public administration**, focusing on transforming government data into
+decision-support tools that improve efficiency, transparency, and policy outcomes:
 
-- **Study Design & Statistical Planning**
-  - Sample size & power calculations
-  - Estimands framework (ICH E9 R1)
-  - Statistical Analysis Plans (SAP)
+- **Public Policy & Program Evaluation**
+  - Indicator design and monitoring
+  - Before–after and comparative analysis
+  - Evidence-based policy assessment
 
-- **Clinical & Epidemiological Modeling**
-  - Survival analysis (KM, Cox PH, AFT, competing risks)
-  - Longitudinal & mixed-effects models (MMRM, random effects)
-  - Generalized linear models & model diagnostics
+- **Public Finance & Budget Analytics**
+  - Budget execution and expenditure analysis
+  - Functional and programmatic classification of spending
+  - Fiscal performance and risk indicators
 
-- **Causal Inference (Observational Studies)**
-  - Propensity score methods (matching, IPTW)
-  - Covariate balance diagnostics
-  - Sensitivity & bias analysis
+- **Governance, Transparency & Control**
+  - Open data analysis (transparency portals)
+  - Detection of anomalies and inefficiencies
+  - Analytical support for accountability and oversight
 
-- **Missing Data & Robustness**
-  - Multiple imputation (MAR / MNAR)
-  - Sensitivity analyses
-  - Impact assessment on clinical conclusions
+- **Applied Statistical Modeling**
+  - Exploratory and inferential analysis
+  - Regression models and diagnostics
+  - Time series and trend analysis for public indicators
 
-- **Multiplicity & Interim Analysis**
-  - Multiple comparisons
-  - Interim monitoring concepts
-  - Reproducible inferential workflows
-
----
-
-## 🧪 Statistical Analysis with R
-
-Beyond analysis, I engineer **production-ready statistical systems**:
-
-- Reproducible pipelines with `renv`, version control, and validation checks  
-- Regulatory-ready reporting (TLFs) using `rmarkdown`, `gt`, `officer`, `quarto`  
-- CDISC-oriented workflows (ADaM-aligned outputs)  
-- Interactive analytical tools with `shiny` / `golem`  
-- Containerized deployments with Docker and CI/CD (GitHub Actions)  
-
-> My goal is not just correct statistics — but **statistics that survive audits, scale operationally, and remain interpretable years later**.
+- **Decision Intelligence for Public Management**
+  - KPI frameworks for public organizations
+  - Data-informed strategic planning
+  - Translating analytics into managerial recommendations
 
 ---
 
-## 📦 Selected Projects
+## 📊 Analytical Systems with R & Open Data
 
-| Project | Focus | Biostatistical Scope | Tech Stack |
-|-------|------|----------------------|-----------|
-| [`clinical-report-engine`](https://github.com/jeanmendes-dev/clinical-report-engine) | Automated clinical reporting | Table 1, adjusted models, TLFs | `rmarkdown`, `gtsummary`, `gt`, `officer` |
-| [`pk-simulator`](https://github.com/jeanmendes-dev/pk-simulator) | PK/PD visualization | NCA, exposure profiles | `deSolve`, `shiny`, `ggplot2`, `golem` |
-| [`doe-pharma`](https://github.com/jeanmendes-dev/doe-pharma) | Process validation | DoE, capability, model interpretation | `FrF2`, `rsm`, `emmeans`, `plotly` |
-| [`clinical-compare`](https://github.com/jeanmendes-dev/clinical-compare) | Comparative clinical analysis | Baseline balance, adjusted inference | `gtsummary`, `ggplot2`, `tidyverse` |
+Beyond analysis, I engineer **public-sector-ready analytical systems**:
+
+- Reproducible data pipelines using official open datasets  
+- Analytical reports for managers and decision-makers (`rmarkdown`, `quarto`, `gt`)  
+- Interactive dashboards for transparency and monitoring (`shiny`)  
+- Public-facing analytical applications (open data dashboards)  
+- Versioned, auditable workflows aligned with public accountability standards  
+
+> My focus is not only on correct analysis, but on **analytics that inform decisions, support governance,
+and can be trusted by public institutions**.
+
+---
+
+## 📦 Selected Public Analytics Projects
+
+| Project | Public Sector Focus | Analytical Scope | Tech Stack |
+|-------|--------------------|------------------|------------|
+| `public-budget-dashboard` | Budget execution & planning | Expenditure trends, KPIs | `shiny`, `ggplot2`, `tidyverse` |
+| `policy-indicator-monitor` | Policy evaluation | Indicator tracking, comparisons | `rmarkdown`, `gt`, `dplyr` |
+| `open-data-audit` | Transparency & control | Anomaly detection, patterns | `tidyverse`, `lubridate` |
+| `municipal-performance` | Local governance | Cross-municipality benchmarking | `ggplot2`, `plotly`, `shiny` |
+
+*(Projects based on public and open government data)*
 
 ---
 
@@ -86,34 +90,24 @@ Beyond analysis, I engineer **production-ready statistical systems**:
 <p align="left">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/RMarkdown-CC2222?style=flat">
+  <img src="https://img.shields.io/badge/Quarto-4A86E8?style=flat">
   <img src="https://img.shields.io/badge/Shiny-38A1DB?style=flat">
-  <img src="https://img.shields.io/badge/golem-4285F4?style=flat">
-  <img src="https://img.shields.io/badge/survival-2E7D32?style=flat">
-  <img src="https://img.shields.io/badge/lme4-6A1B9A?style=flat">
-  <img src="https://img.shields.io/badge/gtsummary-455A64?style=flat">
-  <img src="https://img.shields.io/badge/mice-00897B?style=flat">
+  <img src="https://img.shields.io/badge/Tidyverse-1A237E?style=flat">
+  <img src="https://img.shields.io/badge/Open_Data-2E7D32?style=flat">
+  <img src="https://img.shields.io/badge/Public_Policy-455A64?style=flat">
+  <img src="https://img.shields.io/badge/Data_Governance-6A1B9A?style=flat">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat">
-  <img src="https://img.shields.io/badge/CDISC-9C27B0?style=flat">
-  <img src="https://img.shields.io/badge/21_CFR_Part_11-005F3E?style=flat">
 </p>
 
 ---
 
-## 📊 Activity & Impact
+## 📈 Vision & Impact
 
-> In regulated environments, **statistics are part of the product**.  
-> I build biostatistical solutions that are:
+> In public administration, **data without interpretation is noise**.  
+> I build analytical solutions that:
 >
-> - 🔁 Reproducible by design  
-> - 🔍 Fully auditable  
-> - 🧠 Statistically defensible  
-> - 🚀 Deployable as scalable analytical services  
->
-> Code is only successful when **clinical, regulatory, and operational stakeholders can trust it**.
-
----
-
-### 📫 Let’s Connect
-
-If you're working on **clinical research, epidemiology, pharma analytics, or regulatory-grade R systems**, feel free to connect or explore the repositories above.
+> - 🏛️ Support better public decisions  
+> - 🔍 Increase transparency and accountability  
+> - 📊 Transform open data into actionable insight  
+> - 🚀 Scale as analytical services for governments  
