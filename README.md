@@ -1,87 +1,91 @@
 <!-- 
   Profile README — Jean Mendes
-  Public Sector Analytics & Evidence-Based Governance
+  Clinical Statistical Programming | CDISC | Regulatory Analytics
 -->
 
 <div align="center">
   <h1>Jean Mendes</h1>
-  <h3>Public Sector Analytics Specialist | Data-Driven Governance | Open Data & Policy Intelligence</h3>
+  <h3>Clinical Statistical Programmer | CDISC | Regulatory-Ready Analytics | Reproducible Workflows in R</h3>
 </div>
 
-  <p>
-    I design <strong>analytical intelligence systems for public sector decision-making</strong>, using open data and
-    applied statistics to support <strong>planning, transparency, accountability, and performance management</strong>.<br><br>
-    My work sits at the intersection of <em>statistics, public management, and data engineering</em>,
-    translating complex data into <strong>actionable insights for policymakers, public managers, and control bodies</strong>,
-    aligned with principles of <strong>New Public Management, evidence-based policy, and open government</strong>.
-  </p>
+<p>
+  I design <strong>regulatory-ready clinical data workflows</strong> aligned with 
+  <strong>CDISC standards (SDTM & ADaM)</strong>, transforming raw clinical trial data into 
+  <strong>analysis-ready datasets, Tables, Listings, and Figures (TLFs)</strong> suitable for submission environments.
+  <br><br>
+  My work integrates <em>clinical data engineering, statistical programming, and reproducible reporting</em>,
+  ensuring <strong>traceability, audit readiness, and regulatory compliance</strong> across the full clinical data lifecycle.
+</p>
 
-  <div style="display: inline-flex; gap: 12px; align-items: center;">
-    <a href="https://linkedin.com/in/jean-mendes-0a455680/?locale=en_US">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  </div>
+<div align="center">
+  <a href="https://linkedin.com/in/jean-mendes-0a455680/?locale=en_US">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
 ---
 
-## 🏛️ Public Sector Analytics — Core Expertise
+## 🧬 Clinical Programming — Core Expertise
 
-I work with **applied analytics for public administration**, focusing on transforming government data into
-decision-support tools that improve efficiency, transparency, and policy outcomes:
+I specialize in building structured clinical datasets and regulatory outputs aligned with submission standards:
 
-- **Public Policy & Program Evaluation**
-  - Indicator design and monitoring
-  - Before–after and comparative analysis
-  - Evidence-based policy assessment
+- **CDISC-Based Data Structuring**
+  - SDTM domain modeling (DM, AE, LB, VS)
+  - ADaM dataset derivation (ADSL, ADAE, ADLB)
+  - Controlled terminology and metadata alignment
+  - Population flags and analysis parameters
 
-- **Public Finance & Budget Analytics**
-  - Budget execution and expenditure analysis
-  - Functional and programmatic classification of spending
-  - Fiscal performance and risk indicators
+- **Statistical Programming for Clinical Trials**
+  - Time-to-event analysis (Kaplan-Meier, Cox models)
+  - Longitudinal and mixed-effects models
+  - Safety and adverse event analysis
+  - Baseline and change-from-baseline derivations
 
-- **Governance, Transparency & Control**
-  - Open data analysis (transparency portals)
-  - Detection of anomalies and inefficiencies
-  - Analytical support for accountability and oversight
+- **Tables, Listings & Figures (TLFs)**
+  - Demographic summary tables
+  - Safety tables (TEAE by SOC/PT, severity, relatedness)
+  - Exposure summaries
+  - Survival analysis outputs
+  - Submission-style formatted reports
 
-- **Applied Statistical Modeling**
-  - Exploratory and inferential analysis
-  - Regression models and diagnostics
-  - Time series and trend analysis for public indicators
-
-- **Decision Intelligence for Public Management**
-  - KPI frameworks for public organizations
-  - Data-informed strategic planning
-  - Translating analytics into managerial recommendations
-
----
-
-## 📊 Analytical Systems with R & Open Data
-
-Beyond analysis, I engineer **public-sector-ready analytical systems**:
-
-- Reproducible data pipelines using official open datasets  
-- Analytical reports for managers and decision-makers (`rmarkdown`, `quarto`, `gt`)  
-- Interactive dashboards for transparency and monitoring (`shiny`)  
-- Public-facing analytical applications (open data dashboards)  
-- Versioned, auditable workflows aligned with public accountability standards  
-
-> My focus is not only on correct analysis, but on **analytics that inform decisions, support governance,
-and can be trusted by public institutions**.
+- **Quality Control & Traceability**
+  - Dataset validation frameworks
+  - Derivation consistency checks
+  - Reproducible audit trails
+  - Version-controlled analytical workflows
 
 ---
 
-## 📦 Selected Public Analytics Projects
+## 🔄 End-to-End Clinical Data Workflow in R
 
-| Project | Public Sector Focus | Analytical Scope | Tech Stack |
-|-------|--------------------|------------------|------------|
-| `public-budget-dashboard` | Budget execution & planning | Expenditure trends, KPIs | `shiny`, `ggplot2`, `tidyverse` |
-| `policy-indicator-monitor` | Policy evaluation | Indicator tracking, comparisons | `rmarkdown`, `gt`, `dplyr` |
-| `open-data-audit` | Transparency & control | Anomaly detection, patterns | `tidyverse`, `lubridate` |
-| `municipal-performance` | Local governance | Cross-municipality benchmarking | `ggplot2`, `plotly`, `shiny` |
+I engineer reproducible clinical programming pipelines covering:
 
-*(Projects based on public and open government data)*
+Raw Data → SDTM → ADaM → TLF → Regulatory-Ready Outputs
+
+Using:
+
+- Modular derivation scripts
+- Metadata-driven transformations
+- Automated validation functions
+- Structured folder architecture
+- Git-based version control
+
+> My focus is not only statistical correctness, but building 
+> **transparent, auditable, and submission-ready analytical systems**.
+
+---
+
+## 📦 Selected Clinical Programming Projects
+
+| Project | Clinical Focus | Scope | Tech Stack |
+|----------|----------------|--------|------------|
+| `clinical-sdtm-simulation` | SDTM structuring | Raw → SDTM domains | `tidyverse`, `lubridate` |
+| `adam-derivation-framework` | ADaM construction | ADSL, ADAE, derivations | `dplyr`, `data.table` |
+| `safety-tlf-automation` | Safety reporting | TEAE tables & summaries | `gtsummary`, `gt` |
+| `survival-analysis-tlf` | Time-to-event | KM curves & HR tables | `survival`, `survminer` |
+| `clinical-qc-toolkit` | Programming QC | Dataset comparison & validation | `dplyr`, custom functions |
+
+*(All projects simulate clinical trial datasets following CDISC-aligned structures)*
 
 ---
 
@@ -89,25 +93,27 @@ and can be trusted by public institutions**.
 
 <p align="left">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/CDISC-005EB8?style=flat">
+  <img src="https://img.shields.io/badge/SDTM-1E88E5?style=flat">
+  <img src="https://img.shields.io/badge/ADaM-3949AB?style=flat">
+  <img src="https://img.shields.io/badge/TLF-6D4C41?style=flat">
   <img src="https://img.shields.io/badge/RMarkdown-CC2222?style=flat">
   <img src="https://img.shields.io/badge/Quarto-4A86E8?style=flat">
   <img src="https://img.shields.io/badge/Shiny-38A1DB?style=flat">
-  <img src="https://img.shields.io/badge/Tidyverse-1A237E?style=flat">
-  <img src="https://img.shields.io/badge/Open_Data-2E7D32?style=flat">
-  <img src="https://img.shields.io/badge/Public_Policy-455A64?style=flat">
-  <img src="https://img.shields.io/badge/Data_Governance-6A1B9A?style=flat">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat">
+  <img src="https://img.shields.io/badge/Git-000000?style=flat">
+  <img src="https://img.shields.io/badge/Regulatory_Compliance-2E7D32?style=flat">
 </p>
 
 ---
 
-## 📈 Vision & Impact
+## 📈 Vision
 
-> In public administration, **data without interpretation is noise**.  
-> I build analytical solutions that:
+> In clinical research, data must be traceable, reproducible, and defensible.
 >
-> - 🏛️ Support better public decisions  
-> - 🔍 Increase transparency and accountability  
-> - 📊 Transform open data into actionable insight  
-> - 🚀 Scale as analytical services for governments  
+> I build analytical systems that:
+>
+> - 🧪 Transform raw clinical data into structured CDISC-aligned datasets  
+> - 📊 Generate regulatory-ready statistical outputs  
+> - 🔍 Ensure auditability and QC integrity  
+> - 🧬 Support evidence-based decision-making in clinical development  
+  
