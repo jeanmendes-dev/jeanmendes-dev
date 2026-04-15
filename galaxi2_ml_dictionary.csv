@@ -1,0 +1,669 @@
+variable,dataset,type,original_var,data_type,missing_pct,unique_n,mean,sd,meaning
+USUBJID,,ID,USUBJID,categorical,0,1298,,,Variável identificadora: USUBJID
+AVISIT,,ID,AVISIT,categorical,0,72,,,Variável identificadora: AVISIT
+AVISITN,,ID,AVISITN,numeric,0,72,8343.513584,17105.11118,Variável identificadora: AVISITN
+STC_adae.sas7bdat_STUDYID,adae.sas7bdat,STC,STUDYID,categorical,0,2,,,Característica estática do paciente: STUDYID (dataset ADAE.SAS7BDAT )
+AVAL_adae.sas7bdat_AESTDTC,adae.sas7bdat,AVAL,AESTDTC,categorical,0,1073,,,Valor longitudinal de AESTDTC no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AESTDT,adae.sas7bdat,AVAL,AESTDT,categorical,0,780,,,Valor longitudinal de AESTDT no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_ASTDT,adae.sas7bdat,AVAL,ASTDT,categorical,0,784,,,Valor longitudinal de ASTDT no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_ASTDTF,adae.sas7bdat,AVAL,ASTDTF,categorical,0,3,,,Valor longitudinal de ASTDTF no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_ASTTM,adae.sas7bdat,AVAL,ASTTM,numeric,94.39790749,199,10817.51773,19648.30747,Valor longitudinal de ASTTM no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEENDTC,adae.sas7bdat,AVAL,AEENDTC,categorical,0,885,,,Valor longitudinal de AEENDTC no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEENDT,adae.sas7bdat,AVAL,AEENDT,categorical,0,722,,,Valor longitudinal de AEENDT no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AENDT,adae.sas7bdat,AVAL,AENDT,categorical,0,731,,,Valor longitudinal de AENDT no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AENDTF,adae.sas7bdat,AVAL,AENDTF,categorical,0,3,,,Valor longitudinal de AENDTF no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_ASTDY,adae.sas7bdat,AVAL,ASTDY,numeric,94.07674734,385,139.0257127,112.4368299,Valor longitudinal de ASTDY no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AENDY,adae.sas7bdat,AVAL,AENDY,numeric,95.07664802,432,182.536651,131.5181511,Valor longitudinal de AENDY no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_ADURN,adae.sas7bdat,AVAL,ADURN,numeric,95.38456445,194,40.31635581,83.5725179,Valor longitudinal de ADURN no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_ADURU,adae.sas7bdat,AVAL,ADURU,categorical,0,2,,,Valor longitudinal de ADURU no dataset ADAE.SAS7BDAT
+STC_adae.sas7bdat_TRT01P,adae.sas7bdat,STC,TRT01P,categorical,0,5,,,Característica estática do paciente: TRT01P (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_TRT01PN,adae.sas7bdat,STC,TRT01PN,numeric,23.04075754,5,2.294269489,1.030348684,Característica estática do paciente: TRT01PN (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_TRT01A,adae.sas7bdat,STC,TRT01A,categorical,0,5,,,Característica estática do paciente: TRT01A (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_TRT01AN,adae.sas7bdat,STC,TRT01AN,numeric,23.04075754,5,2.294269489,1.030348684,Característica estática do paciente: TRT01AN (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_TRT02P,adae.sas7bdat,STC,TRT02P,categorical,0,6,,,Característica estática do paciente: TRT02P (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_TRT02PN,adae.sas7bdat,STC,TRT02PN,numeric,24.49756647,6,2.373048588,1.196800901,Característica estática do paciente: TRT02PN (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_TRT02A,adae.sas7bdat,STC,TRT02A,categorical,0,6,,,Característica estática do paciente: TRT02A (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_TRT02AN,adae.sas7bdat,STC,TRT02AN,numeric,24.67635665,6,2.366813187,1.191349097,Característica estática do paciente: TRT02AN (dataset ADAE.SAS7BDAT )
+AVAL_adae.sas7bdat_DOSENUM,adae.sas7bdat,AVAL,DOSENUM,numeric,94.59987418,13,5.800735745,3.437812038,Valor longitudinal de DOSENUM no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_DOSEON,adae.sas7bdat,AVAL,DOSEON,numeric,94.59987418,10,110.1508277,101.1654749,Valor longitudinal de DOSEON no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_DOSEU,adae.sas7bdat,AVAL,DOSEU,categorical,0,2,,,Valor longitudinal de DOSEU no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_STAGAEON,adae.sas7bdat,AVAL,STAGAEON,categorical,0,4,,,Valor longitudinal de STAGAEON no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_DOSEDY,adae.sas7bdat,AVAL,DOSEDY,numeric,94.59987418,192,137.289393,97.37159677,Valor longitudinal de DOSEDY no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AETERM,adae.sas7bdat,AVAL,AETERM,categorical,0,1039,,,Valor longitudinal de AETERM no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEDECOD,adae.sas7bdat,AVAL,AEDECOD,categorical,0,479,,,Valor longitudinal de AEDECOD no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEBODSYS,adae.sas7bdat,AVAL,AEBODSYS,categorical,0,26,,,Valor longitudinal de AEBODSYS no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEBDSYCD,adae.sas7bdat,AVAL,AEBDSYCD,numeric,94.07674734,26,10023025.46,8189.203972,Valor longitudinal de AEBDSYCD no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AELLT,adae.sas7bdat,AVAL,AELLT,categorical,0,706,,,Valor longitudinal de AELLT no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AELLTCD,adae.sas7bdat,AVAL,AELLTCD,numeric,94.07674734,706,10031314.54,23509.94796,Valor longitudinal de AELLTCD no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEPTCD,adae.sas7bdat,AVAL,AEPTCD,numeric,94.07674734,479,10029368.46,22758.61323,Valor longitudinal de AEPTCD no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEHLT,adae.sas7bdat,AVAL,AEHLT,categorical,0,266,,,Valor longitudinal de AEHLT no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEHLTCD,adae.sas7bdat,AVAL,AEHLTCD,numeric,94.07674734,266,10031093.89,22039.44186,Valor longitudinal de AEHLTCD no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEHLGT,adae.sas7bdat,AVAL,AEHLGT,categorical,0,130,,,Valor longitudinal de AEHLGT no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEHLGTCD,adae.sas7bdat,AVAL,AEHLGTCD,numeric,94.07674734,130,10023528.51,14855.22806,Valor longitudinal de AEHLGTCD no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AESOC,adae.sas7bdat,AVAL,AESOC,categorical,0,26,,,Valor longitudinal de AESOC no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AESOCCD,adae.sas7bdat,AVAL,AESOCCD,numeric,94.07674734,26,10023025.46,8189.203972,Valor longitudinal de AESOCCD no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_TRTEMFL,adae.sas7bdat,AVAL,TRTEMFL,categorical,0,2,,,Valor longitudinal de TRTEMFL no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_W12FL,adae.sas7bdat,AVAL,W12FL,categorical,0,3,,,Valor longitudinal de W12FL no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_W24FL,adae.sas7bdat,AVAL,W24FL,categorical,0,3,,,Valor longitudinal de W24FL no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_W48FL,adae.sas7bdat,AVAL,W48FL,categorical,0,3,,,Valor longitudinal de W48FL no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_ACOL,adae.sas7bdat,AVAL,ACOL,numeric,94.07674734,6,2.351593069,1.117245324,Valor longitudinal de ACOL no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AERELDEV,adae.sas7bdat,AVAL,AERELDEV,categorical,0,3,,,Valor longitudinal de AERELDEV no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AESER,adae.sas7bdat,AVAL,AESER,categorical,0,3,,,Valor longitudinal de AESER no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_ASER,adae.sas7bdat,AVAL,ASER,categorical,0,3,,,Valor longitudinal de ASER no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AESEV,adae.sas7bdat,AVAL,AESEV,categorical,0,4,,,Valor longitudinal de AESEV no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_ASEV,adae.sas7bdat,AVAL,ASEV,categorical,0,4,,,Valor longitudinal de ASEV no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEOUT,adae.sas7bdat,AVAL,AEOUT,categorical,0,6,,,Valor longitudinal de AEOUT no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEREL,adae.sas7bdat,AVAL,AEREL,categorical,0,6,,,Valor longitudinal de AEREL no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_RELGR1,adae.sas7bdat,AVAL,RELGR1,categorical,0,3,,,Valor longitudinal de RELGR1 no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEACN,adae.sas7bdat,AVAL,AEACN,categorical,0,5,,,Valor longitudinal de AEACN no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEINF,adae.sas7bdat,AVAL,AEINF,categorical,0,3,,,Valor longitudinal de AEINF no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEINJSRC,adae.sas7bdat,AVAL,AEINJSRC,categorical,0,3,,,Valor longitudinal de AEINJSRC no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AESHOSP,adae.sas7bdat,AVAL,AESHOSP,categorical,0,3,,,Valor longitudinal de AESHOSP no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AESHOSPP,adae.sas7bdat,AVAL,AESHOSPP,categorical,0,3,,,Valor longitudinal de AESHOSPP no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AESHOSPR,adae.sas7bdat,AVAL,AESHOSPR,categorical,0,3,,,Valor longitudinal de AESHOSPR no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AETRLPRC,adae.sas7bdat,AVAL,AETRLPRC,categorical,0,3,,,Valor longitudinal de AETRLPRC no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AESCONG,adae.sas7bdat,AVAL,AESCONG,categorical,0,2,,,Valor longitudinal de AESCONG no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AESDISAB,adae.sas7bdat,AVAL,AESDISAB,categorical,0,3,,,Valor longitudinal de AESDISAB no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AESLIFE,adae.sas7bdat,AVAL,AESLIFE,categorical,0,3,,,Valor longitudinal de AESLIFE no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AESDTH,adae.sas7bdat,AVAL,AESDTH,categorical,0,2,,,Valor longitudinal de AESDTH no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AESMIE,adae.sas7bdat,AVAL,AESMIE,categorical,0,3,,,Valor longitudinal de AESMIE no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AESIBEYN,adae.sas7bdat,AVAL,AESIBEYN,categorical,0,3,,,Valor longitudinal de AESIBEYN no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AETRTOPA,adae.sas7bdat,AVAL,AETRTOPA,categorical,0,3,,,Valor longitudinal de AETRTOPA no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEINJS,adae.sas7bdat,AVAL,AEINJS,categorical,0,7,,,Valor longitudinal de AEINJS no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEINJSO,adae.sas7bdat,AVAL,AEINJSO,categorical,0,4,,,Valor longitudinal de AEINJSO no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEEVTYP,adae.sas7bdat,AVAL,AEEVTYP,categorical,0,2,,,Valor longitudinal de AEEVTYP no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_INFRCPFL,adae.sas7bdat,AVAL,INFRCPFL,categorical,0,3,,,Valor longitudinal de INFRCPFL no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_INFRCAFL,adae.sas7bdat,AVAL,INFRCAFL,categorical,0,3,,,Valor longitudinal de INFRCAFL no dataset ADAE.SAS7BDAT
+STC_adae.sas7bdat_CQ01NAM,adae.sas7bdat,STC,CQ01NAM,binary,100,1,,,Característica estática do paciente: CQ01NAM (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_CQ02NAM,adae.sas7bdat,STC,CQ02NAM,binary,100,1,,,Característica estática do paciente: CQ02NAM (dataset ADAE.SAS7BDAT )
+AVAL_adae.sas7bdat_CQ03NAM,adae.sas7bdat,AVAL,CQ03NAM,categorical,0,2,,,Valor longitudinal de CQ03NAM no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_CQ04NAM,adae.sas7bdat,AVAL,CQ04NAM,categorical,0,2,,,Valor longitudinal de CQ04NAM no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_CQ05NAM,adae.sas7bdat,AVAL,CQ05NAM,categorical,0,2,,,Valor longitudinal de CQ05NAM no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_CQ06NAM,adae.sas7bdat,AVAL,CQ06NAM,categorical,0,2,,,Valor longitudinal de CQ06NAM no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_CQ07NAM,adae.sas7bdat,AVAL,CQ07NAM,categorical,0,2,,,Valor longitudinal de CQ07NAM no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_CQ08NAM,adae.sas7bdat,AVAL,CQ08NAM,categorical,0,2,,,Valor longitudinal de CQ08NAM no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_CQ09NAM,adae.sas7bdat,AVAL,CQ09NAM,categorical,0,2,,,Valor longitudinal de CQ09NAM no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEIJREAP,adae.sas7bdat,AVAL,AEIJREAP,categorical,0,3,,,Valor longitudinal de AEIJREAP no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEIJREAU,adae.sas7bdat,AVAL,AEIJREAU,categorical,0,3,,,Valor longitudinal de AEIJREAU no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AEIJREAG,adae.sas7bdat,AVAL,AEIJREAG,categorical,0,3,,,Valor longitudinal de AEIJREAG no dataset ADAE.SAS7BDAT
+STC_adae.sas7bdat_RANDFL,adae.sas7bdat,STC,RANDFL,categorical,0,2,,,Característica estática do paciente: RANDFL (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_ATASFL,adae.sas7bdat,STC,ATASFL,categorical,0,2,,,Característica estática do paciente: ATASFL (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_ATSAFFL,adae.sas7bdat,STC,ATSAFFL,categorical,0,2,,,Característica estática do paciente: ATSAFFL (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_PASFL,adae.sas7bdat,STC,PASFL,categorical,0,3,,,Característica estática do paciente: PASFL (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_PSAFFL,adae.sas7bdat,STC,PSAFFL,categorical,0,3,,,Característica estática do paciente: PSAFFL (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_MPASFL,adae.sas7bdat,STC,MPASFL,categorical,0,3,,,Característica estática do paciente: MPASFL (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_SAFSCFL,adae.sas7bdat,STC,SAFSCFL,categorical,0,3,,,Característica estática do paciente: SAFSCFL (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_AGE,adae.sas7bdat,STC,AGE,numeric,23.04075754,56,35.93030459,12.70617363,Característica estática do paciente: AGE (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_AGEU,adae.sas7bdat,STC,AGEU,categorical,0,2,,,Característica estática do paciente: AGEU (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_SEX,adae.sas7bdat,STC,SEX,categorical,0,3,,,Característica estática do paciente: SEX (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_RACE,adae.sas7bdat,STC,RACE,categorical,0,6,,,Característica estática do paciente: RACE (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_COUNTRY,adae.sas7bdat,STC,COUNTRY,categorical,0,36,,,Característica estática do paciente: COUNTRY (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_ETHNIC,adae.sas7bdat,STC,ETHNIC,categorical,0,4,,,Característica estática do paciente: ETHNIC (dataset ADAE.SAS7BDAT )
+AVAL_adae.sas7bdat_AESEQ,adae.sas7bdat,AVAL,AESEQ,numeric,94.07674734,45,6.281162661,6.599843025,Valor longitudinal de AESEQ no dataset ADAE.SAS7BDAT
+STC_adae.sas7bdat_SITEID,adae.sas7bdat,STC,SITEID,categorical,0,169,,,Característica estática do paciente: SITEID (dataset ADAE.SAS7BDAT )
+STC_adae.sas7bdat_SUBJID,adae.sas7bdat,STC,SUBJID,numeric,23.04075754,415,101611.9141,524.9511846,Característica estática do paciente: SUBJID (dataset ADAE.SAS7BDAT )
+AVAL_adae.sas7bdat_ASTDTL,adae.sas7bdat,AVAL,ASTDTL,categorical,0,810,,,Valor longitudinal de ASTDTL no dataset ADAE.SAS7BDAT
+AVAL_adae.sas7bdat_AENDTL,adae.sas7bdat,AVAL,AENDTL,categorical,0,748,,,Valor longitudinal de AENDTL no dataset ADAE.SAS7BDAT
+STC_adbdc.sas7bdat_STUDYID,adbdc.sas7bdat,STC,STUDYID,categorical,0,2,,,Característica estática do paciente: STUDYID (dataset ADBDC.SAS7BDAT )
+AVAL_adbdc.sas7bdat_ASTDT,adbdc.sas7bdat,AVAL,ASTDT,categorical,0,394,,,Valor longitudinal de ASTDT no dataset ADBDC.SAS7BDAT
+AVAL_adbdc.sas7bdat_ASTDTC,adbdc.sas7bdat,AVAL,ASTDTC,categorical,0,403,,,Valor longitudinal de ASTDTC no dataset ADBDC.SAS7BDAT
+AVAL_adbdc.sas7bdat_ASTDTF,adbdc.sas7bdat,AVAL,ASTDTF,categorical,0,3,,,Valor longitudinal de ASTDTF no dataset ADBDC.SAS7BDAT
+AVAL_adbdc.sas7bdat_AENDT,adbdc.sas7bdat,AVAL,AENDT,categorical,0,363,,,Valor longitudinal de AENDT no dataset ADBDC.SAS7BDAT
+AVAL_adbdc.sas7bdat_AENDTC,adbdc.sas7bdat,AVAL,AENDTC,categorical,0,362,,,Valor longitudinal de AENDTC no dataset ADBDC.SAS7BDAT
+AVAL_adbdc.sas7bdat_PARCAT1,adbdc.sas7bdat,AVAL,PARCAT1,categorical,0,7,,,Valor longitudinal de PARCAT1 no dataset ADBDC.SAS7BDAT
+AVAL_adbdc.sas7bdat_PARAMCD,adbdc.sas7bdat,AVAL,PARAMCD,categorical,0,47,,,Valor longitudinal de PARAMCD no dataset ADBDC.SAS7BDAT
+AVAL_adbdc.sas7bdat_PARAM,adbdc.sas7bdat,AVAL,PARAM,categorical,0,47,,,Valor longitudinal de PARAM no dataset ADBDC.SAS7BDAT
+AVAL_adbdc.sas7bdat_AVAL,adbdc.sas7bdat,AVAL,AVAL,numeric,82.06138463,1719,219.6144597,944.0741128,Valor longitudinal de AVAL no dataset ADBDC.SAS7BDAT
+AVAL_adbdc.sas7bdat_AVALC,adbdc.sas7bdat,AVAL,AVALC,categorical,0,9,,,Valor longitudinal de AVALC no dataset ADBDC.SAS7BDAT
+AVAL_adbdc.sas7bdat_AVALCAT1,adbdc.sas7bdat,AVAL,AVALCAT1,categorical,0,18,,,Valor longitudinal de AVALCAT1 no dataset ADBDC.SAS7BDAT
+AVAL_adbdc.sas7bdat_AVALCAT2,adbdc.sas7bdat,AVAL,AVALCAT2,categorical,0,10,,,Valor longitudinal de AVALCAT2 no dataset ADBDC.SAS7BDAT
+AVAL_adbdc.sas7bdat_SRCDOM,adbdc.sas7bdat,AVAL,SRCDOM,categorical,0,10,,,Valor longitudinal de SRCDOM no dataset ADBDC.SAS7BDAT
+AVAL_adbdc.sas7bdat_SRCSEQ,adbdc.sas7bdat,AVAL,SRCSEQ,numeric,54.24626693,239,75.39988422,105.8676201,Valor longitudinal de SRCSEQ no dataset ADBDC.SAS7BDAT
+AVAL_adbdc.sas7bdat_SRCVAR,adbdc.sas7bdat,AVAL,SRCVAR,categorical,0,5,,,Valor longitudinal de SRCVAR no dataset ADBDC.SAS7BDAT
+STC_adbdc.sas7bdat_AGE,adbdc.sas7bdat,STC,AGE,numeric,2.562659338,57,36.4322607,12.73196648,Característica estática do paciente: AGE (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_AGEU,adbdc.sas7bdat,STC,AGEU,categorical,0,2,,,Característica estática do paciente: AGEU (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_SEX,adbdc.sas7bdat,STC,SEX,categorical,0,3,,,Característica estática do paciente: SEX (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_RACE,adbdc.sas7bdat,STC,RACE,categorical,0,6,,,Característica estática do paciente: RACE (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_COUNTRY,adbdc.sas7bdat,STC,COUNTRY,categorical,0,37,,,Característica estática do paciente: COUNTRY (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_ETHNIC,adbdc.sas7bdat,STC,ETHNIC,categorical,0,4,,,Característica estática do paciente: ETHNIC (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_SITEID,adbdc.sas7bdat,STC,SITEID,categorical,0,187,,,Característica estática do paciente: SITEID (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_SUBJID,adbdc.sas7bdat,STC,SUBJID,numeric,2.562659338,525,101598.1397,526.6472288,Característica estática do paciente: SUBJID (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_TRT01P,adbdc.sas7bdat,STC,TRT01P,categorical,0,5,,,Característica estática do paciente: TRT01P (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_TRT01PN,adbdc.sas7bdat,STC,TRT01PN,numeric,2.562659338,5,2.295660743,1.03277235,Característica estática do paciente: TRT01PN (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_TRT01A,adbdc.sas7bdat,STC,TRT01A,categorical,0,6,,,Característica estática do paciente: TRT01A (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_TRT01AN,adbdc.sas7bdat,STC,TRT01AN,numeric,2.665298149,5,2.295972515,1.033272098,Característica estática do paciente: TRT01AN (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_TRT02P,adbdc.sas7bdat,STC,TRT02P,categorical,0,6,,,Característica estática do paciente: TRT02P (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_TRT02PN,adbdc.sas7bdat,STC,TRT02PN,numeric,4.304208191,6,2.382071065,1.213973455,Característica estática do paciente: TRT02PN (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_TRT02A,adbdc.sas7bdat,STC,TRT02A,categorical,0,6,,,Característica estática do paciente: TRT02A (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_TRT02AN,adbdc.sas7bdat,STC,TRT02AN,numeric,4.482998378,6,2.377170786,1.209808727,Característica estática do paciente: TRT02AN (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_RANDFL,adbdc.sas7bdat,STC,RANDFL,categorical,0,2,,,Característica estática do paciente: RANDFL (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_ATASFL,adbdc.sas7bdat,STC,ATASFL,categorical,0,3,,,Característica estática do paciente: ATASFL (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_ATSAFFL,adbdc.sas7bdat,STC,ATSAFFL,categorical,0,3,,,Característica estática do paciente: ATSAFFL (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_PASFL,adbdc.sas7bdat,STC,PASFL,categorical,0,3,,,Característica estática do paciente: PASFL (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_PSAFFL,adbdc.sas7bdat,STC,PSAFFL,categorical,0,3,,,Característica estática do paciente: PSAFFL (dataset ADBDC.SAS7BDAT )
+STC_adbdc.sas7bdat_MPASFL,adbdc.sas7bdat,STC,MPASFL,categorical,0,3,,,Característica estática do paciente: MPASFL (dataset ADBDC.SAS7BDAT )
+STC_adcdai.sas7bdat_STUDYID,adcdai.sas7bdat,STC,STUDYID,categorical,0,2,,,Característica estática do paciente: STUDYID (dataset ADCDAI.SAS7BDAT )
+AVAL_adcdai.sas7bdat_ASEQ,adcdai.sas7bdat,AVAL,ASEQ,numeric,78.72396782,92,165.0331466,17.59917508,Valor longitudinal de ASEQ no dataset ADCDAI.SAS7BDAT
+AVAL_adcdai.sas7bdat_ADT,adcdai.sas7bdat,AVAL,ADT,categorical,0,935,,,Valor longitudinal de ADT no dataset ADCDAI.SAS7BDAT
+AVAL_adcdai.sas7bdat_ADY,adcdai.sas7bdat,AVAL,ADY,numeric,78.72396782,358,166.3273959,105.3654323,Valor longitudinal de ADY no dataset ADCDAI.SAS7BDAT
+STC_adcdai.sas7bdat_TRT01P,adcdai.sas7bdat,STC,TRT01P,categorical,0,5,,,Característica estática do paciente: TRT01P (dataset ADCDAI.SAS7BDAT )
+STC_adcdai.sas7bdat_TRT01PN,adcdai.sas7bdat,STC,TRT01PN,numeric,2.562659338,5,2.295660743,1.03277235,Característica estática do paciente: TRT01PN (dataset ADCDAI.SAS7BDAT )
+STC_adcdai.sas7bdat_TRT01A,adcdai.sas7bdat,STC,TRT01A,categorical,0,6,,,Característica estática do paciente: TRT01A (dataset ADCDAI.SAS7BDAT )
+STC_adcdai.sas7bdat_TRT01AN,adcdai.sas7bdat,STC,TRT01AN,numeric,2.665298149,5,2.295972515,1.033272098,Característica estática do paciente: TRT01AN (dataset ADCDAI.SAS7BDAT )
+STC_adcdai.sas7bdat_TRT02P,adcdai.sas7bdat,STC,TRT02P,categorical,0,6,,,Característica estática do paciente: TRT02P (dataset ADCDAI.SAS7BDAT )
+STC_adcdai.sas7bdat_TRT02PN,adcdai.sas7bdat,STC,TRT02PN,numeric,4.304208191,6,2.382071065,1.213973455,Característica estática do paciente: TRT02PN (dataset ADCDAI.SAS7BDAT )
+STC_adcdai.sas7bdat_TRT02A,adcdai.sas7bdat,STC,TRT02A,categorical,0,6,,,Característica estática do paciente: TRT02A (dataset ADCDAI.SAS7BDAT )
+STC_adcdai.sas7bdat_TRT02AN,adcdai.sas7bdat,STC,TRT02AN,numeric,4.482998378,6,2.377170786,1.209808727,Característica estática do paciente: TRT02AN (dataset ADCDAI.SAS7BDAT )
+AVAL_adcdai.sas7bdat_PARAMCD,adcdai.sas7bdat,AVAL,PARAMCD,categorical,0,2,,,Valor longitudinal de PARAMCD no dataset ADCDAI.SAS7BDAT
+AVAL_adcdai.sas7bdat_PARAM,adcdai.sas7bdat,AVAL,PARAM,categorical,0,2,,,Valor longitudinal de PARAM no dataset ADCDAI.SAS7BDAT
+AVAL_adcdai.sas7bdat_AVAL,adcdai.sas7bdat,AVAL,AVAL,numeric,78.72396782,6193,25.34635247,11.5871571,Valor longitudinal de AVAL no dataset ADCDAI.SAS7BDAT
+AVAL_adcdai.sas7bdat_DTYPE,adcdai.sas7bdat,AVAL,DTYPE,binary,100,1,,,Valor longitudinal de DTYPE no dataset ADCDAI.SAS7BDAT
+AVAL_adcdai.sas7bdat_ABLFL,adcdai.sas7bdat,AVAL,ABLFL,categorical,0,2,,,Valor longitudinal de ABLFL no dataset ADCDAI.SAS7BDAT
+AVAL_adcdai.sas7bdat_APOBLFL,adcdai.sas7bdat,AVAL,APOBLFL,categorical,0,2,,,Valor longitudinal de APOBLFL no dataset ADCDAI.SAS7BDAT
+STC_adcdai.sas7bdat_RANDFL,adcdai.sas7bdat,STC,RANDFL,categorical,0,2,,,Característica estática do paciente: RANDFL (dataset ADCDAI.SAS7BDAT )
+STC_adcdai.sas7bdat_ATASFL,adcdai.sas7bdat,STC,ATASFL,categorical,0,3,,,Característica estática do paciente: ATASFL (dataset ADCDAI.SAS7BDAT )
+STC_adcdai.sas7bdat_ATSAFFL,adcdai.sas7bdat,STC,ATSAFFL,categorical,0,3,,,Característica estática do paciente: ATSAFFL (dataset ADCDAI.SAS7BDAT )
+STC_adcdai.sas7bdat_PASFL,adcdai.sas7bdat,STC,PASFL,categorical,0,3,,,Característica estática do paciente: PASFL (dataset ADCDAI.SAS7BDAT )
+STC_adcdai.sas7bdat_PSAFFL,adcdai.sas7bdat,STC,PSAFFL,categorical,0,3,,,Característica estática do paciente: PSAFFL (dataset ADCDAI.SAS7BDAT )
+STC_adcdai.sas7bdat_MPASFL,adcdai.sas7bdat,STC,MPASFL,categorical,0,3,,,Característica estática do paciente: MPASFL (dataset ADCDAI.SAS7BDAT )
+AVAL_adcdai.sas7bdat_SRCDOM,adcdai.sas7bdat,AVAL,SRCDOM,binary,100,1,,,Valor longitudinal de SRCDOM no dataset ADCDAI.SAS7BDAT
+AVAL_adcdai.sas7bdat_SRCVAR,adcdai.sas7bdat,AVAL,SRCVAR,binary,100,1,,,Valor longitudinal de SRCVAR no dataset ADCDAI.SAS7BDAT
+AVAL_adcdai.sas7bdat_SRCSEQ,adcdai.sas7bdat,AVAL,SRCSEQ,numeric,78.72396782,393,123.1387333,77.15061985,Valor longitudinal de SRCSEQ no dataset ADCDAI.SAS7BDAT
+STC_adcdai.sas7bdat_AGE,adcdai.sas7bdat,STC,AGE,numeric,2.562659338,57,36.4322607,12.73196648,Característica estática do paciente: AGE (dataset ADCDAI.SAS7BDAT )
+STC_adcdai.sas7bdat_AGEU,adcdai.sas7bdat,STC,AGEU,categorical,0,2,,,Característica estática do paciente: AGEU (dataset ADCDAI.SAS7BDAT )
+STC_adcdai.sas7bdat_SEX,adcdai.sas7bdat,STC,SEX,categorical,0,3,,,Característica estática do paciente: SEX (dataset ADCDAI.SAS7BDAT )
+STC_adcdai.sas7bdat_RACE,adcdai.sas7bdat,STC,RACE,categorical,0,6,,,Característica estática do paciente: RACE (dataset ADCDAI.SAS7BDAT )
+STC_adcdai.sas7bdat_COUNTRY,adcdai.sas7bdat,STC,COUNTRY,categorical,0,37,,,Característica estática do paciente: COUNTRY (dataset ADCDAI.SAS7BDAT )
+STC_adcdai.sas7bdat_ETHNIC,adcdai.sas7bdat,STC,ETHNIC,categorical,0,4,,,Característica estática do paciente: ETHNIC (dataset ADCDAI.SAS7BDAT )
+AVAL_adcdai.sas7bdat_VISIT,adcdai.sas7bdat,AVAL,VISIT,categorical,0,16,,,Valor longitudinal de VISIT no dataset ADCDAI.SAS7BDAT
+AVAL_adcdai.sas7bdat_VISITNUM,adcdai.sas7bdat,AVAL,VISITNUM,numeric,78.72396782,16,28810.25086,8013.307767,Valor longitudinal de VISITNUM no dataset ADCDAI.SAS7BDAT
+STC_adcdai.sas7bdat_SITEID,adcdai.sas7bdat,STC,SITEID,categorical,0,187,,,Característica estática do paciente: SITEID (dataset ADCDAI.SAS7BDAT )
+STC_adcdai.sas7bdat_SUBJID,adcdai.sas7bdat,STC,SUBJID,numeric,2.562659338,525,101598.1397,526.6472288,Característica estática do paciente: SUBJID (dataset ADCDAI.SAS7BDAT )
+STC_addisp.sas7bdat_STUDYID,addisp.sas7bdat,STC,STUDYID,categorical,0,2,,,Característica estática do paciente: STUDYID (dataset ADDISP.SAS7BDAT )
+AVAL_addisp.sas7bdat_ASTDT,addisp.sas7bdat,AVAL,ASTDT,categorical,0,127,,,Valor longitudinal de ASTDT no dataset ADDISP.SAS7BDAT
+AVAL_addisp.sas7bdat_ASTDY,addisp.sas7bdat,AVAL,ASTDY,numeric,98.9967884,104,157.990099,87.09203799,Valor longitudinal de ASTDY no dataset ADDISP.SAS7BDAT
+AVAL_addisp.sas7bdat_W12FL,addisp.sas7bdat,AVAL,W12FL,categorical,0,3,,,Valor longitudinal de W12FL no dataset ADDISP.SAS7BDAT
+AVAL_addisp.sas7bdat_W48FL,addisp.sas7bdat,AVAL,W48FL,categorical,0,3,,,Valor longitudinal de W48FL no dataset ADDISP.SAS7BDAT
+AVAL_addisp.sas7bdat_PARAMCD,addisp.sas7bdat,AVAL,PARAMCD,categorical,0,11,,,Valor longitudinal de PARAMCD no dataset ADDISP.SAS7BDAT
+AVAL_addisp.sas7bdat_PARAM,addisp.sas7bdat,AVAL,PARAM,categorical,0,11,,,Valor longitudinal de PARAM no dataset ADDISP.SAS7BDAT
+AVAL_addisp.sas7bdat_PARCAT1,addisp.sas7bdat,AVAL,PARCAT1,categorical,0,4,,,Valor longitudinal de PARCAT1 no dataset ADDISP.SAS7BDAT
+AVAL_addisp.sas7bdat_AVALC,addisp.sas7bdat,AVAL,AVALC,categorical,0,29,,,Valor longitudinal de AVALC no dataset ADDISP.SAS7BDAT
+AVAL_addisp.sas7bdat_AVALCSP,addisp.sas7bdat,AVAL,AVALCSP,categorical,0,28,,,Valor longitudinal de AVALCSP no dataset ADDISP.SAS7BDAT
+AVAL_addisp.sas7bdat_CRIT1,addisp.sas7bdat,AVAL,CRIT1,categorical,0,2,,,Valor longitudinal de CRIT1 no dataset ADDISP.SAS7BDAT
+AVAL_addisp.sas7bdat_CRIT1FL,addisp.sas7bdat,AVAL,CRIT1FL,categorical,0,2,,,Valor longitudinal de CRIT1FL no dataset ADDISP.SAS7BDAT
+AVAL_addisp.sas7bdat_CRIT2,addisp.sas7bdat,AVAL,CRIT2,categorical,0,2,,,Valor longitudinal de CRIT2 no dataset ADDISP.SAS7BDAT
+AVAL_addisp.sas7bdat_CRIT2FL,addisp.sas7bdat,AVAL,CRIT2FL,categorical,0,2,,,Valor longitudinal de CRIT2FL no dataset ADDISP.SAS7BDAT
+STC_addisp.sas7bdat_TRT01P,addisp.sas7bdat,STC,TRT01P,categorical,0,5,,,Característica estática do paciente: TRT01P (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_TRT01PN,addisp.sas7bdat,STC,TRT01PN,numeric,89.35536205,5,2.645412131,0.99434772,Característica estática do paciente: TRT01PN (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_TRT01A,addisp.sas7bdat,STC,TRT01A,categorical,0,6,,,Característica estática do paciente: TRT01A (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_TRT01AN,addisp.sas7bdat,STC,TRT01AN,numeric,89.45800086,5,2.65169598,0.997126068,Característica estática do paciente: TRT01AN (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_TRT02P,addisp.sas7bdat,STC,TRT02P,categorical,0,6,,,Característica estática do paciente: TRT02P (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_TRT02PN,addisp.sas7bdat,STC,TRT02PN,numeric,90.90156607,6,2.693231441,1.088108625,Característica estática do paciente: TRT02PN (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_TRT02A,addisp.sas7bdat,STC,TRT02A,categorical,0,6,,,Característica estática do paciente: TRT02A (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_TRT02AN,addisp.sas7bdat,STC,TRT02AN,numeric,91.08035626,6,2.646993318,1.048275979,Característica estática do paciente: TRT02AN (dataset ADDISP.SAS7BDAT )
+AVAL_addisp.sas7bdat_ACOL,addisp.sas7bdat,AVAL,ACOL,numeric,98.9967884,6,2.742574257,1.100753493,Valor longitudinal de ACOL no dataset ADDISP.SAS7BDAT
+STC_addisp.sas7bdat_RANDFL,addisp.sas7bdat,STC,RANDFL,categorical,0,2,,,Característica estática do paciente: RANDFL (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_ATASFL,addisp.sas7bdat,STC,ATASFL,categorical,0,3,,,Característica estática do paciente: ATASFL (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_ATSAFFL,addisp.sas7bdat,STC,ATSAFFL,categorical,0,3,,,Característica estática do paciente: ATSAFFL (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_PASFL,addisp.sas7bdat,STC,PASFL,categorical,0,3,,,Característica estática do paciente: PASFL (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_PSAFFL,addisp.sas7bdat,STC,PSAFFL,categorical,0,3,,,Característica estática do paciente: PSAFFL (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_MPASFL,addisp.sas7bdat,STC,MPASFL,categorical,0,3,,,Característica estática do paciente: MPASFL (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_AGE,addisp.sas7bdat,STC,AGE,numeric,89.35536205,34,34.81088647,13.74343786,Característica estática do paciente: AGE (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_AGEU,addisp.sas7bdat,STC,AGEU,categorical,0,2,,,Característica estática do paciente: AGEU (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_SEX,addisp.sas7bdat,STC,SEX,categorical,0,3,,,Característica estática do paciente: SEX (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_RACE,addisp.sas7bdat,STC,RACE,categorical,0,5,,,Característica estática do paciente: RACE (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_COUNTRY,addisp.sas7bdat,STC,COUNTRY,categorical,0,22,,,Característica estática do paciente: COUNTRY (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_ETHNIC,addisp.sas7bdat,STC,ETHNIC,categorical,0,4,,,Característica estática do paciente: ETHNIC (dataset ADDISP.SAS7BDAT )
+AVAL_addisp.sas7bdat_SRCDOM,addisp.sas7bdat,AVAL,SRCDOM,categorical,0,5,,,Valor longitudinal de SRCDOM no dataset ADDISP.SAS7BDAT
+AVAL_addisp.sas7bdat_SRCVAR,addisp.sas7bdat,AVAL,SRCVAR,categorical,0,5,,,Valor longitudinal de SRCVAR no dataset ADDISP.SAS7BDAT
+AVAL_addisp.sas7bdat_SRCSEQ,addisp.sas7bdat,AVAL,SRCSEQ,numeric,99.11598186,21,7.599250936,4.589183036,Valor longitudinal de SRCSEQ no dataset ADDISP.SAS7BDAT
+AVAL_addisp.sas7bdat_ASTDTC,addisp.sas7bdat,AVAL,ASTDTC,categorical,0,156,,,Valor longitudinal de ASTDTC no dataset ADDISP.SAS7BDAT
+STC_addisp.sas7bdat_SITEID,addisp.sas7bdat,STC,SITEID,categorical,0,52,,,Característica estática do paciente: SITEID (dataset ADDISP.SAS7BDAT )
+STC_addisp.sas7bdat_SUBJID,addisp.sas7bdat,STC,SUBJID,numeric,89.35536205,59,101625.67,562.4457905,Característica estática do paciente: SUBJID (dataset ADDISP.SAS7BDAT )
+STC_adex.sas7bdat_STUDYID,adex.sas7bdat,STC,STUDYID,categorical,0,2,,,Característica estática do paciente: STUDYID (dataset ADEX.SAS7BDAT )
+AVAL_adex.sas7bdat_EXTRT,adex.sas7bdat,AVAL,EXTRT,categorical,0,3,,,Valor longitudinal de EXTRT no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_EXDOSE,adex.sas7bdat,AVAL,EXDOSE,numeric,80.43571831,17,48.39075986,55.48351113,Valor longitudinal de EXDOSE no dataset ADEX.SAS7BDAT
+STC_adex.sas7bdat_EXDOSU,adex.sas7bdat,STC,EXDOSU,categorical,0,2,,,Característica estática do paciente: EXDOSU (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_EXDOSFRM,adex.sas7bdat,STC,EXDOSFRM,categorical,0,2,,,Característica estática do paciente: EXDOSFRM (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_EXDOSFRQ,adex.sas7bdat,STC,EXDOSFRQ,binary,100,1,,,Característica estática do paciente: EXDOSFRQ (dataset ADEX.SAS7BDAT )
+AVAL_adex.sas7bdat_EXCAT,adex.sas7bdat,AVAL,EXCAT,categorical,0,3,,,Valor longitudinal de EXCAT no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_EXROUTE,adex.sas7bdat,AVAL,EXROUTE,categorical,0,3,,,Valor longitudinal de EXROUTE no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_EXLOT,adex.sas7bdat,AVAL,EXLOT,categorical,0,41,,,Valor longitudinal de EXLOT no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_EXLOC,adex.sas7bdat,AVAL,EXLOC,categorical,0,5,,,Valor longitudinal de EXLOC no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_EXLAT,adex.sas7bdat,AVAL,EXLAT,categorical,0,3,,,Valor longitudinal de EXLAT no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_EXDIR,adex.sas7bdat,AVAL,EXDIR,categorical,0,3,,,Valor longitudinal de EXDIR no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_ECTOTAMT,adex.sas7bdat,AVAL,ECTOTAMT,categorical,0,3,,,Valor longitudinal de ECTOTAMT no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_AEXLOC,adex.sas7bdat,AVAL,AEXLOC,categorical,0,8,,,Valor longitudinal de AEXLOC no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_ASTDT,adex.sas7bdat,AVAL,ASTDT,categorical,0,903,,,Valor longitudinal de ASTDT no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_ASTTM,adex.sas7bdat,AVAL,ASTTM,numeric,80.43571831,1643,44439.58453,8151.139008,Valor longitudinal de ASTTM no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_AENDT,adex.sas7bdat,AVAL,AENDT,categorical,0,903,,,Valor longitudinal de AENDT no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_AENTM,adex.sas7bdat,AVAL,AENTM,numeric,80.43571831,1689,45495.45693,8536.871054,Valor longitudinal de AENTM no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_ASTDY,adex.sas7bdat,AVAL,ASTDY,numeric,80.43571831,281,152.341795,97.2032828,Valor longitudinal de ASTDY no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_AENDY,adex.sas7bdat,AVAL,AENDY,numeric,80.43571831,281,152.341795,97.2032828,Valor longitudinal de AENDY no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_DOSENUM,adex.sas7bdat,AVAL,DOSENUM,numeric,80.43571831,13,6.336266712,3.436601499,Valor longitudinal de DOSENUM no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_INJNUM,adex.sas7bdat,AVAL,INJNUM,numeric,80.43571831,34,14.54154679,9.594442456,Valor longitudinal de INJNUM no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_EXSTDTC,adex.sas7bdat,AVAL,EXSTDTC,categorical,0,5815,,,Valor longitudinal de EXSTDTC no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_EXENDTC,adex.sas7bdat,AVAL,EXENDTC,categorical,0,5817,,,Valor longitudinal de EXENDTC no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_EXISRP,adex.sas7bdat,AVAL,EXISRP,categorical,0,3,,,Valor longitudinal de EXISRP no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_EXISRU,adex.sas7bdat,AVAL,EXISRU,categorical,0,2,,,Valor longitudinal de EXISRU no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_EXISRG,adex.sas7bdat,AVAL,EXISRG,categorical,0,3,,,Valor longitudinal de EXISRG no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_EXLOTIV,adex.sas7bdat,AVAL,EXLOTIV,categorical,0,57,,,Valor longitudinal de EXLOTIV no dataset ADEX.SAS7BDAT
+STC_adex.sas7bdat_TRT01P,adex.sas7bdat,STC,TRT01P,categorical,0,5,,,Característica estática do paciente: TRT01P (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_TRT01PN,adex.sas7bdat,STC,TRT01PN,numeric,2.665298149,5,2.295972515,1.033272098,Característica estática do paciente: TRT01PN (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_TRT01A,adex.sas7bdat,STC,TRT01A,categorical,0,5,,,Característica estática do paciente: TRT01A (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_TRT01AN,adex.sas7bdat,STC,TRT01AN,numeric,2.665298149,5,2.295972515,1.033272098,Característica estática do paciente: TRT01AN (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_TRT02P,adex.sas7bdat,STC,TRT02P,categorical,0,6,,,Característica estática do paciente: TRT02P (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_TRT02PN,adex.sas7bdat,STC,TRT02PN,numeric,4.304208191,6,2.382071065,1.213973455,Característica estática do paciente: TRT02PN (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_TRT02A,adex.sas7bdat,STC,TRT02A,categorical,0,6,,,Característica estática do paciente: TRT02A (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_TRT02AN,adex.sas7bdat,STC,TRT02AN,numeric,4.482998378,6,2.377170786,1.209808727,Característica estática do paciente: TRT02AN (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_RANDFL,adex.sas7bdat,STC,RANDFL,categorical,0,2,,,Característica estática do paciente: RANDFL (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_ATASFL,adex.sas7bdat,STC,ATASFL,categorical,0,2,,,Característica estática do paciente: ATASFL (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_ATSAFFL,adex.sas7bdat,STC,ATSAFFL,categorical,0,2,,,Característica estática do paciente: ATSAFFL (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_PASFL,adex.sas7bdat,STC,PASFL,categorical,0,3,,,Característica estática do paciente: PASFL (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_PSAFFL,adex.sas7bdat,STC,PSAFFL,categorical,0,3,,,Característica estática do paciente: PSAFFL (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_MPASFL,adex.sas7bdat,STC,MPASFL,categorical,0,3,,,Característica estática do paciente: MPASFL (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_AGE,adex.sas7bdat,STC,AGE,numeric,2.665298149,57,36.44537043,12.73227205,Característica estática do paciente: AGE (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_AGEU,adex.sas7bdat,STC,AGEU,categorical,0,2,,,Característica estática do paciente: AGEU (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_SEX,adex.sas7bdat,STC,SEX,categorical,0,3,,,Característica estática do paciente: SEX (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_RACE,adex.sas7bdat,STC,RACE,categorical,0,6,,,Característica estática do paciente: RACE (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_COUNTRY,adex.sas7bdat,STC,COUNTRY,categorical,0,37,,,Característica estática do paciente: COUNTRY (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_ETHNIC,adex.sas7bdat,STC,ETHNIC,categorical,0,4,,,Característica estática do paciente: ETHNIC (dataset ADEX.SAS7BDAT )
+AVAL_adex.sas7bdat_VISIT,adex.sas7bdat,AVAL,VISIT,categorical,0,13,,,Valor longitudinal de VISIT no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_VISITNUM,adex.sas7bdat,AVAL,VISITNUM,numeric,80.43571831,13,27384.76764,4417.022259,Valor longitudinal de VISITNUM no dataset ADEX.SAS7BDAT
+AVAL_adex.sas7bdat_EXSEQ,adex.sas7bdat,AVAL,EXSEQ,numeric,80.43571831,283,25.98663056,13.63263048,Valor longitudinal de EXSEQ no dataset ADEX.SAS7BDAT
+STC_adex.sas7bdat_SITEID,adex.sas7bdat,STC,SITEID,categorical,0,187,,,Característica estática do paciente: SITEID (dataset ADEX.SAS7BDAT )
+STC_adex.sas7bdat_SUBJID,adex.sas7bdat,STC,SUBJID,numeric,2.665298149,524,101597.1887,526.1094725,Característica estática do paciente: SUBJID (dataset ADEX.SAS7BDAT )
+STC_adice.sas7bdat_STUDYID,adice.sas7bdat,STC,STUDYID,categorical,0,2,,,Característica estática do paciente: STUDYID (dataset ADICE.SAS7BDAT )
+AVAL_adice.sas7bdat_ASEQ,adice.sas7bdat,AVAL,ASEQ,numeric,98.77495613,9,1.651351351,1.249416476,Valor longitudinal de ASEQ no dataset ADICE.SAS7BDAT
+AVAL_adice.sas7bdat_ADT,adice.sas7bdat,AVAL,ADT,categorical,0,268,,,Valor longitudinal de ADT no dataset ADICE.SAS7BDAT
+AVAL_adice.sas7bdat_ADY,adice.sas7bdat,AVAL,ADY,numeric,98.77826706,124,117.6883469,66.27042671,Valor longitudinal de ADY no dataset ADICE.SAS7BDAT
+STC_adice.sas7bdat_TRT01P,adice.sas7bdat,STC,TRT01P,categorical,0,5,,,Característica estática do paciente: TRT01P (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_TRT01PN,adice.sas7bdat,STC,TRT01PN,numeric,53.2066351,5,2.525790703,1.084977356,Característica estática do paciente: TRT01PN (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_TRT01A,adice.sas7bdat,STC,TRT01A,categorical,0,6,,,Característica estática do paciente: TRT01A (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_TRT01AN,adice.sas7bdat,STC,TRT01AN,numeric,53.30927391,5,2.526946532,1.085888895,Característica estática do paciente: TRT01AN (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_TRT02P,adice.sas7bdat,STC,TRT02P,categorical,0,6,,,Característica estática do paciente: TRT02P (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_TRT02PN,adice.sas7bdat,STC,TRT02PN,numeric,54.75283912,6,2.719449729,1.389426652,Característica estática do paciente: TRT02PN (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_TRT02A,adice.sas7bdat,STC,TRT02A,categorical,0,6,,,Característica estática do paciente: TRT02A (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_TRT02AN,adice.sas7bdat,STC,TRT02AN,numeric,54.93162931,6,2.710402586,1.384720057,Característica estática do paciente: TRT02AN (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_PARAMCD,adice.sas7bdat,STC,PARAMCD,categorical,0,2,,,Característica estática do paciente: PARAMCD (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_PARAM,adice.sas7bdat,STC,PARAM,categorical,0,2,,,Característica estática do paciente: PARAM (dataset ADICE.SAS7BDAT )
+AVAL_adice.sas7bdat_AVALC,adice.sas7bdat,AVAL,AVALC,categorical,0,58,,,Valor longitudinal de AVALC no dataset ADICE.SAS7BDAT
+AVAL_adice.sas7bdat_AVALCAT1,adice.sas7bdat,AVAL,AVALCAT1,categorical,0,7,,,Valor longitudinal de AVALCAT1 no dataset ADICE.SAS7BDAT
+AVAL_adice.sas7bdat_AVALCAT2,adice.sas7bdat,AVAL,AVALCAT2,categorical,0,11,,,Valor longitudinal de AVALCAT2 no dataset ADICE.SAS7BDAT
+AVAL_adice.sas7bdat_ANL01FL,adice.sas7bdat,AVAL,ANL01FL,categorical,0,2,,,Valor longitudinal de ANL01FL no dataset ADICE.SAS7BDAT
+AVAL_adice.sas7bdat_ANL02FL,adice.sas7bdat,AVAL,ANL02FL,categorical,0,2,,,Valor longitudinal de ANL02FL no dataset ADICE.SAS7BDAT
+STC_adice.sas7bdat_ANL03FL,adice.sas7bdat,STC,ANL03FL,binary,100,1,,,Característica estática do paciente: ANL03FL (dataset ADICE.SAS7BDAT )
+AVAL_adice.sas7bdat_ANL04FL,adice.sas7bdat,AVAL,ANL04FL,categorical,0,2,,,Valor longitudinal de ANL04FL no dataset ADICE.SAS7BDAT
+AVAL_adice.sas7bdat_ANL05FL,adice.sas7bdat,AVAL,ANL05FL,categorical,0,2,,,Valor longitudinal de ANL05FL no dataset ADICE.SAS7BDAT
+AVAL_adice.sas7bdat_ANL06FL,adice.sas7bdat,AVAL,ANL06FL,categorical,0,2,,,Valor longitudinal de ANL06FL no dataset ADICE.SAS7BDAT
+AVAL_adice.sas7bdat_ANL07FL,adice.sas7bdat,AVAL,ANL07FL,categorical,0,2,,,Valor longitudinal de ANL07FL no dataset ADICE.SAS7BDAT
+STC_adice.sas7bdat_RANDFL,adice.sas7bdat,STC,RANDFL,categorical,0,2,,,Característica estática do paciente: RANDFL (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_ATASFL,adice.sas7bdat,STC,ATASFL,categorical,0,3,,,Característica estática do paciente: ATASFL (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_ATSAFFL,adice.sas7bdat,STC,ATSAFFL,categorical,0,3,,,Característica estática do paciente: ATSAFFL (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_PASFL,adice.sas7bdat,STC,PASFL,categorical,0,3,,,Característica estática do paciente: PASFL (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_PSAFFL,adice.sas7bdat,STC,PSAFFL,categorical,0,3,,,Característica estática do paciente: PSAFFL (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_MPASFL,adice.sas7bdat,STC,MPASFL,categorical,0,3,,,Característica estática do paciente: MPASFL (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_AGE,adice.sas7bdat,STC,AGE,numeric,53.2066351,53,37.23349607,12.82590282,Característica estática do paciente: AGE (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_AGEU,adice.sas7bdat,STC,AGEU,categorical,0,2,,,Característica estática do paciente: AGEU (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_SEX,adice.sas7bdat,STC,SEX,categorical,0,3,,,Característica estática do paciente: SEX (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_RACE,adice.sas7bdat,STC,RACE,categorical,0,6,,,Característica estática do paciente: RACE (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_COUNTRY,adice.sas7bdat,STC,COUNTRY,categorical,0,35,,,Característica estática do paciente: COUNTRY (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_ETHNIC,adice.sas7bdat,STC,ETHNIC,categorical,0,4,,,Característica estática do paciente: ETHNIC (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_SITEID,adice.sas7bdat,STC,SITEID,categorical,0,133,,,Característica estática do paciente: SITEID (dataset ADICE.SAS7BDAT )
+STC_adice.sas7bdat_SUBJID,adice.sas7bdat,STC,SUBJID,numeric,53.2066351,253,101596.7463,527.0311439,Característica estática do paciente: SUBJID (dataset ADICE.SAS7BDAT )
+STC_adlbef.sas7bdat_STUDYID,adlbef.sas7bdat,STC,STUDYID,categorical,0,2,,,Característica estática do paciente: STUDYID (dataset ADLBEF.SAS7BDAT )
+AVAL_adlbef.sas7bdat_ASEQ,adlbef.sas7bdat,AVAL,ASEQ,numeric,80.65423965,711,62.09280502,12.74245133,Valor longitudinal de ASEQ no dataset ADLBEF.SAS7BDAT
+AVAL_adlbef.sas7bdat_ADT,adlbef.sas7bdat,AVAL,ADT,categorical,0,1018,,,Valor longitudinal de ADT no dataset ADLBEF.SAS7BDAT
+AVAL_adlbef.sas7bdat_ADY,adlbef.sas7bdat,AVAL,ADY,numeric,80.65423965,628,129.1794265,112.5474726,Valor longitudinal de ADY no dataset ADLBEF.SAS7BDAT
+AVAL_adlbef.sas7bdat_PARAMCD,adlbef.sas7bdat,AVAL,PARAMCD,categorical,0,5,,,Valor longitudinal de PARAMCD no dataset ADLBEF.SAS7BDAT
+AVAL_adlbef.sas7bdat_PARAM,adlbef.sas7bdat,AVAL,PARAM,categorical,0,5,,,Valor longitudinal de PARAM no dataset ADLBEF.SAS7BDAT
+AVAL_adlbef.sas7bdat_AVAL,adlbef.sas7bdat,AVAL,AVAL,numeric,80.95222329,4247,202.5311772,516.6470789,Valor longitudinal de AVAL no dataset ADLBEF.SAS7BDAT
+AVAL_adlbef.sas7bdat_AVALC,adlbef.sas7bdat,AVAL,AVALC,categorical,0,2,,,Valor longitudinal de AVALC no dataset ADLBEF.SAS7BDAT
+AVAL_adlbef.sas7bdat_BASE,adlbef.sas7bdat,AVAL,BASE,numeric,82.47193987,1127,257.8416404,561.2272603,Valor longitudinal de BASE no dataset ADLBEF.SAS7BDAT
+AVAL_adlbef.sas7bdat_CHG,adlbef.sas7bdat,AVAL,CHG,numeric,84.42207728,4419,-76.49490335,494.8883164,Valor longitudinal de CHG no dataset ADLBEF.SAS7BDAT
+AVAL_adlbef.sas7bdat_PCHG,adlbef.sas7bdat,AVAL,PCHG,numeric,84.42207728,4419,-0.208301256,257.0633279,Valor longitudinal de PCHG no dataset ADLBEF.SAS7BDAT
+AVAL_adlbef.sas7bdat_DTYPE,adlbef.sas7bdat,AVAL,DTYPE,categorical,0,2,,,Valor longitudinal de DTYPE no dataset ADLBEF.SAS7BDAT
+AVAL_adlbef.sas7bdat_ANL01FL,adlbef.sas7bdat,AVAL,ANL01FL,categorical,0,2,,,Valor longitudinal de ANL01FL no dataset ADLBEF.SAS7BDAT
+STC_adlbef.sas7bdat_ANL02FL,adlbef.sas7bdat,STC,ANL02FL,binary,100,1,,,Característica estática do paciente: ANL02FL (dataset ADLBEF.SAS7BDAT )
+AVAL_adlbef.sas7bdat_ANL03FL,adlbef.sas7bdat,AVAL,ANL03FL,categorical,0,2,,,Valor longitudinal de ANL03FL no dataset ADLBEF.SAS7BDAT
+AVAL_adlbef.sas7bdat_ABLFL,adlbef.sas7bdat,AVAL,ABLFL,categorical,0,2,,,Valor longitudinal de ABLFL no dataset ADLBEF.SAS7BDAT
+AVAL_adlbef.sas7bdat_APOBLFL,adlbef.sas7bdat,AVAL,APOBLFL,categorical,0,2,,,Valor longitudinal de APOBLFL no dataset ADLBEF.SAS7BDAT
+AVAL_adlbef.sas7bdat_SRCDOM,adlbef.sas7bdat,AVAL,SRCDOM,categorical,0,2,,,Valor longitudinal de SRCDOM no dataset ADLBEF.SAS7BDAT
+AVAL_adlbef.sas7bdat_SRCVAR,adlbef.sas7bdat,AVAL,SRCVAR,categorical,0,2,,,Valor longitudinal de SRCVAR no dataset ADLBEF.SAS7BDAT
+AVAL_adlbef.sas7bdat_SRCSEQ,adlbef.sas7bdat,AVAL,SRCSEQ,numeric,81.66407311,367,156.5750873,34.13584729,Valor longitudinal de SRCSEQ no dataset ADLBEF.SAS7BDAT
+STC_adlbef.sas7bdat_AGE,adlbef.sas7bdat,STC,AGE,numeric,2.562659338,57,36.4322607,12.73196648,Característica estática do paciente: AGE (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_AGEU,adlbef.sas7bdat,STC,AGEU,categorical,0,2,,,Característica estática do paciente: AGEU (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_SEX,adlbef.sas7bdat,STC,SEX,categorical,0,3,,,Característica estática do paciente: SEX (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_RACE,adlbef.sas7bdat,STC,RACE,categorical,0,6,,,Característica estática do paciente: RACE (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_COUNTRY,adlbef.sas7bdat,STC,COUNTRY,categorical,0,37,,,Característica estática do paciente: COUNTRY (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_ETHNIC,adlbef.sas7bdat,STC,ETHNIC,categorical,0,4,,,Característica estática do paciente: ETHNIC (dataset ADLBEF.SAS7BDAT )
+AVAL_adlbef.sas7bdat_VISIT,adlbef.sas7bdat,AVAL,VISIT,categorical,0,31,,,Valor longitudinal de VISIT no dataset ADLBEF.SAS7BDAT
+AVAL_adlbef.sas7bdat_VISITNUM,adlbef.sas7bdat,AVAL,VISITNUM,numeric,81.66407311,49,26747.4391,10962.30462,Valor longitudinal de VISITNUM no dataset ADLBEF.SAS7BDAT
+STC_adlbef.sas7bdat_SITEID,adlbef.sas7bdat,STC,SITEID,categorical,0,187,,,Característica estática do paciente: SITEID (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_SUBJID,adlbef.sas7bdat,STC,SUBJID,numeric,2.562659338,525,101598.1397,526.6472288,Característica estática do paciente: SUBJID (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_TRT01P,adlbef.sas7bdat,STC,TRT01P,categorical,0,5,,,Característica estática do paciente: TRT01P (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_TRT01PN,adlbef.sas7bdat,STC,TRT01PN,numeric,2.562659338,5,2.295660743,1.03277235,Característica estática do paciente: TRT01PN (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_TRT01A,adlbef.sas7bdat,STC,TRT01A,categorical,0,6,,,Característica estática do paciente: TRT01A (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_TRT01AN,adlbef.sas7bdat,STC,TRT01AN,numeric,2.665298149,5,2.295972515,1.033272098,Característica estática do paciente: TRT01AN (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_TRT02P,adlbef.sas7bdat,STC,TRT02P,categorical,0,6,,,Característica estática do paciente: TRT02P (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_TRT02PN,adlbef.sas7bdat,STC,TRT02PN,numeric,4.304208191,6,2.382071065,1.213973455,Característica estática do paciente: TRT02PN (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_TRT02A,adlbef.sas7bdat,STC,TRT02A,categorical,0,6,,,Característica estática do paciente: TRT02A (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_TRT02AN,adlbef.sas7bdat,STC,TRT02AN,numeric,4.482998378,6,2.377170786,1.209808727,Característica estática do paciente: TRT02AN (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_RANDFL,adlbef.sas7bdat,STC,RANDFL,categorical,0,2,,,Característica estática do paciente: RANDFL (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_ATASFL,adlbef.sas7bdat,STC,ATASFL,categorical,0,3,,,Característica estática do paciente: ATASFL (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_ATSAFFL,adlbef.sas7bdat,STC,ATSAFFL,categorical,0,3,,,Característica estática do paciente: ATSAFFL (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_PASFL,adlbef.sas7bdat,STC,PASFL,categorical,0,3,,,Característica estática do paciente: PASFL (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_PSAFFL,adlbef.sas7bdat,STC,PSAFFL,categorical,0,3,,,Característica estática do paciente: PSAFFL (dataset ADLBEF.SAS7BDAT )
+STC_adlbef.sas7bdat_MPASFL,adlbef.sas7bdat,STC,MPASFL,categorical,0,3,,,Característica estática do paciente: MPASFL (dataset ADLBEF.SAS7BDAT )
+STC_admace.sas7bdat_STUDYID,admace.sas7bdat,STC,STUDYID,categorical,0,2,,,Característica estática do paciente: STUDYID (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AESTDTC,admace.sas7bdat,STC,AESTDTC,categorical,0,3,,,Característica estática do paciente: AESTDTC (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AESTDT,admace.sas7bdat,STC,AESTDT,categorical,0,3,,,Característica estática do paciente: AESTDT (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_ASTDT,admace.sas7bdat,STC,ASTDT,categorical,0,3,,,Característica estática do paciente: ASTDT (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_ASTDTF,admace.sas7bdat,STC,ASTDTF,binary,100,1,,,Característica estática do paciente: ASTDTF (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_ASTTM,admace.sas7bdat,STC,ASTTM,binary,100,1,,,Característica estática do paciente: ASTTM (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEENDTC,admace.sas7bdat,STC,AEENDTC,categorical,0,3,,,Característica estática do paciente: AEENDTC (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEENDT,admace.sas7bdat,STC,AEENDT,categorical,0,3,,,Característica estática do paciente: AEENDT (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AENDT,admace.sas7bdat,STC,AENDT,categorical,0,3,,,Característica estática do paciente: AENDT (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AENDTF,admace.sas7bdat,STC,AENDTF,binary,100,1,,,Característica estática do paciente: AENDTF (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_ASTDY,admace.sas7bdat,STC,ASTDY,numeric,99.63248684,3,266.4414414,62.27865309,Característica estática do paciente: ASTDY (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AENDY,admace.sas7bdat,STC,AENDY,numeric,99.63248684,3,269.4324324,63.28314749,Característica estática do paciente: AENDY (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_ADURN,admace.sas7bdat,STC,ADURN,numeric,99.63248684,3,3.990990991,1.004494405,Característica estática do paciente: ADURN (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_ADURU,admace.sas7bdat,STC,ADURU,categorical,0,2,,,Característica estática do paciente: ADURU (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_TRT01P,admace.sas7bdat,STC,TRT01P,categorical,0,3,,,Característica estática do paciente: TRT01P (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_TRT01PN,admace.sas7bdat,STC,TRT01PN,numeric,99.63248684,3,1.495495495,0.502247202,Característica estática do paciente: TRT01PN (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_TRT01A,admace.sas7bdat,STC,TRT01A,categorical,0,3,,,Característica estática do paciente: TRT01A (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_TRT01AN,admace.sas7bdat,STC,TRT01AN,numeric,99.63248684,3,1.495495495,0.502247202,Característica estática do paciente: TRT01AN (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_TRT02P,admace.sas7bdat,STC,TRT02P,categorical,0,3,,,Característica estática do paciente: TRT02P (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_TRT02PN,admace.sas7bdat,STC,TRT02PN,numeric,99.63248684,3,1.495495495,0.502247202,Característica estática do paciente: TRT02PN (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_TRT02A,admace.sas7bdat,STC,TRT02A,categorical,0,3,,,Característica estática do paciente: TRT02A (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_TRT02AN,admace.sas7bdat,STC,TRT02AN,numeric,99.63248684,3,1.495495495,0.502247202,Característica estática do paciente: TRT02AN (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_DOSENUM,admace.sas7bdat,STC,DOSENUM,numeric,99.63248684,3,9.981981982,2.008988809,Característica estática do paciente: DOSENUM (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_DOSEON,admace.sas7bdat,STC,DOSEON,numeric,99.63248684,3,100.9009009,100.4494405,Característica estática do paciente: DOSEON (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_DOSEU,admace.sas7bdat,STC,DOSEU,categorical,0,2,,,Característica estática do paciente: DOSEU (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_STAGAEON,admace.sas7bdat,STC,STAGAEON,categorical,0,3,,,Característica estática do paciente: STAGAEON (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_DOSEDY,admace.sas7bdat,STC,DOSEDY,numeric,99.63248684,3,253,55.74943946,Característica estática do paciente: DOSEDY (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AETERM,admace.sas7bdat,STC,AETERM,categorical,0,3,,,Característica estática do paciente: AETERM (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEDECOD,admace.sas7bdat,STC,AEDECOD,categorical,0,3,,,Característica estática do paciente: AEDECOD (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEBODSYS,admace.sas7bdat,STC,AEBODSYS,categorical,0,3,,,Característica estática do paciente: AEBODSYS (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEBDSYCD,admace.sas7bdat,STC,AEBDSYCD,numeric,99.63248684,3,10018275.41,10880.68339,Característica estática do paciente: AEBDSYCD (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AELLT,admace.sas7bdat,STC,AELLT,categorical,0,3,,,Característica estática do paciente: AELLT (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AELLTCD,admace.sas7bdat,STC,AELLTCD,numeric,99.63248684,3,10050695.59,4505.157405,Característica estática do paciente: AELLTCD (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEPTCD,admace.sas7bdat,STC,AEPTCD,numeric,99.63248684,3,10031556.83,29566.28831,Característica estática do paciente: AEPTCD (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEHLT,admace.sas7bdat,STC,AEHLT,categorical,0,3,,,Característica estática do paciente: AEHLT (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEHLTCD,admace.sas7bdat,STC,AEHLTCD,numeric,99.63248684,3,10009530.63,1575.549474,Característica estática do paciente: AEHLTCD (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEHLGT,admace.sas7bdat,STC,AEHLGT,categorical,0,3,,,Característica estática do paciente: AEHLGT (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEHLGTCD,admace.sas7bdat,STC,AEHLGTCD,numeric,99.63248684,3,10009536.55,1566.509024,Característica estática do paciente: AEHLGTCD (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AESOC,admace.sas7bdat,STC,AESOC,categorical,0,3,,,Característica estática do paciente: AESOC (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AESOCCD,admace.sas7bdat,STC,AESOCCD,numeric,99.63248684,3,10018275.41,10880.68339,Característica estática do paciente: AESOCCD (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_TRTEMFL,admace.sas7bdat,STC,TRTEMFL,categorical,0,2,,,Característica estática do paciente: TRTEMFL (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_MACETYPE,admace.sas7bdat,STC,MACETYPE,categorical,0,3,,,Característica estática do paciente: MACETYPE (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_W12FL,admace.sas7bdat,STC,W12FL,categorical,0,2,,,Característica estática do paciente: W12FL (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_W48FL,admace.sas7bdat,STC,W48FL,categorical,0,2,,,Característica estática do paciente: W48FL (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_ACOL,admace.sas7bdat,STC,ACOL,numeric,99.63248684,3,1.495495495,0.502247202,Característica estática do paciente: ACOL (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AERELDEV,admace.sas7bdat,STC,AERELDEV,categorical,0,2,,,Característica estática do paciente: AERELDEV (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AESER,admace.sas7bdat,STC,AESER,categorical,0,2,,,Característica estática do paciente: AESER (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_ASER,admace.sas7bdat,STC,ASER,categorical,0,2,,,Característica estática do paciente: ASER (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AESEV,admace.sas7bdat,STC,AESEV,categorical,0,2,,,Característica estática do paciente: AESEV (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_ASEV,admace.sas7bdat,STC,ASEV,categorical,0,2,,,Característica estática do paciente: ASEV (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEOUT,admace.sas7bdat,STC,AEOUT,categorical,0,2,,,Característica estática do paciente: AEOUT (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEREL,admace.sas7bdat,STC,AEREL,categorical,0,3,,,Característica estática do paciente: AEREL (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_RELGR1,admace.sas7bdat,STC,RELGR1,categorical,0,2,,,Característica estática do paciente: RELGR1 (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEACN,admace.sas7bdat,STC,AEACN,categorical,0,3,,,Característica estática do paciente: AEACN (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEINF,admace.sas7bdat,STC,AEINF,categorical,0,2,,,Característica estática do paciente: AEINF (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEINJSRC,admace.sas7bdat,STC,AEINJSRC,categorical,0,2,,,Característica estática do paciente: AEINJSRC (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AESHOSP,admace.sas7bdat,STC,AESHOSP,categorical,0,2,,,Característica estática do paciente: AESHOSP (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AESHOSPP,admace.sas7bdat,STC,AESHOSPP,categorical,0,2,,,Característica estática do paciente: AESHOSPP (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AESHOSPR,admace.sas7bdat,STC,AESHOSPR,categorical,0,2,,,Característica estática do paciente: AESHOSPR (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AETRLPRC,admace.sas7bdat,STC,AETRLPRC,categorical,0,2,,,Característica estática do paciente: AETRLPRC (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AESCONG,admace.sas7bdat,STC,AESCONG,categorical,0,2,,,Característica estática do paciente: AESCONG (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AESDISAB,admace.sas7bdat,STC,AESDISAB,categorical,0,2,,,Característica estática do paciente: AESDISAB (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AESLIFE,admace.sas7bdat,STC,AESLIFE,categorical,0,3,,,Característica estática do paciente: AESLIFE (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AESDTH,admace.sas7bdat,STC,AESDTH,categorical,0,2,,,Característica estática do paciente: AESDTH (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AESMIE,admace.sas7bdat,STC,AESMIE,categorical,0,2,,,Característica estática do paciente: AESMIE (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AESIBEYN,admace.sas7bdat,STC,AESIBEYN,categorical,0,2,,,Característica estática do paciente: AESIBEYN (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AETRTOPA,admace.sas7bdat,STC,AETRTOPA,binary,100,1,,,Característica estática do paciente: AETRTOPA (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEINJS,admace.sas7bdat,STC,AEINJS,binary,100,1,,,Característica estática do paciente: AEINJS (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEEVTYP,admace.sas7bdat,STC,AEEVTYP,binary,100,1,,,Característica estática do paciente: AEEVTYP (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_INFRCPFL,admace.sas7bdat,STC,INFRCPFL,categorical,0,2,,,Característica estática do paciente: INFRCPFL (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_INFRCAFL,admace.sas7bdat,STC,INFRCAFL,categorical,0,2,,,Característica estática do paciente: INFRCAFL (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_CQ01NAM,admace.sas7bdat,STC,CQ01NAM,categorical,0,2,,,Característica estática do paciente: CQ01NAM (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEIJREAP,admace.sas7bdat,STC,AEIJREAP,categorical,0,2,,,Característica estática do paciente: AEIJREAP (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEIJREAU,admace.sas7bdat,STC,AEIJREAU,categorical,0,2,,,Característica estática do paciente: AEIJREAU (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AEIJREAG,admace.sas7bdat,STC,AEIJREAG,categorical,0,2,,,Característica estática do paciente: AEIJREAG (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_RANDFL,admace.sas7bdat,STC,RANDFL,categorical,0,2,,,Característica estática do paciente: RANDFL (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_ATASFL,admace.sas7bdat,STC,ATASFL,categorical,0,2,,,Característica estática do paciente: ATASFL (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_ATSAFFL,admace.sas7bdat,STC,ATSAFFL,categorical,0,2,,,Característica estática do paciente: ATSAFFL (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_PASFL,admace.sas7bdat,STC,PASFL,categorical,0,2,,,Característica estática do paciente: PASFL (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_PSAFFL,admace.sas7bdat,STC,PSAFFL,categorical,0,2,,,Característica estática do paciente: PSAFFL (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_MPASFL,admace.sas7bdat,STC,MPASFL,categorical,0,2,,,Característica estática do paciente: MPASFL (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_SAFSCFL,admace.sas7bdat,STC,SAFSCFL,categorical,0,2,,,Característica estática do paciente: SAFSCFL (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AGE,admace.sas7bdat,STC,AGE,numeric,99.63248684,3,52.05405405,6.026966428,Característica estática do paciente: AGE (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AGEU,admace.sas7bdat,STC,AGEU,categorical,0,2,,,Característica estática do paciente: AGEU (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_SEX,admace.sas7bdat,STC,SEX,categorical,0,2,,,Característica estática do paciente: SEX (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_RACE,admace.sas7bdat,STC,RACE,categorical,0,2,,,Característica estática do paciente: RACE (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_COUNTRY,admace.sas7bdat,STC,COUNTRY,categorical,0,3,,,Característica estática do paciente: COUNTRY (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_ETHNIC,admace.sas7bdat,STC,ETHNIC,categorical,0,2,,,Característica estática do paciente: ETHNIC (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AESEQ,admace.sas7bdat,STC,AESEQ,numeric,99.63248684,3,7.441441441,6.52921363,Característica estática do paciente: AESEQ (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_SITEID,admace.sas7bdat,STC,SITEID,categorical,0,3,,,Característica estática do paciente: SITEID (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_SUBJID,admace.sas7bdat,STC,SUBJID,numeric,99.63248684,3,101570.0811,399.2865259,Característica estática do paciente: SUBJID (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_ASTDTL,admace.sas7bdat,STC,ASTDTL,categorical,0,3,,,Característica estática do paciente: ASTDTL (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_AENDTL,admace.sas7bdat,STC,AENDTL,categorical,0,3,,,Característica estática do paciente: AENDTL (dataset ADMACE.SAS7BDAT )
+STC_admace.sas7bdat_W24FL,admace.sas7bdat,STC,W24FL,categorical,0,2,,,Característica estática do paciente: W24FL (dataset ADMACE.SAS7BDAT )
+STC_adrxfail.sas7bdat_STUDYID,adrxfail.sas7bdat,STC,STUDYID,categorical,0,2,,,Característica estática do paciente: STUDYID (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_TRT01P,adrxfail.sas7bdat,STC,TRT01P,categorical,0,5,,,Característica estática do paciente: TRT01P (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_TRT01PN,adrxfail.sas7bdat,STC,TRT01PN,numeric,2.665298149,5,2.295972515,1.033272098,Característica estática do paciente: TRT01PN (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_TRT01A,adrxfail.sas7bdat,STC,TRT01A,categorical,0,5,,,Característica estática do paciente: TRT01A (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_TRT01AN,adrxfail.sas7bdat,STC,TRT01AN,numeric,2.665298149,5,2.295972515,1.033272098,Característica estática do paciente: TRT01AN (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_TRT02P,adrxfail.sas7bdat,STC,TRT02P,categorical,0,6,,,Característica estática do paciente: TRT02P (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_TRT02PN,adrxfail.sas7bdat,STC,TRT02PN,numeric,4.304208191,6,2.382071065,1.213973455,Característica estática do paciente: TRT02PN (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_TRT02A,adrxfail.sas7bdat,STC,TRT02A,categorical,0,6,,,Característica estática do paciente: TRT02A (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_TRT02AN,adrxfail.sas7bdat,STC,TRT02AN,numeric,4.482998378,6,2.377170786,1.209808727,Característica estática do paciente: TRT02AN (dataset ADRXFAIL.SAS7BDAT )
+AVAL_adrxfail.sas7bdat_PARCAT1,adrxfail.sas7bdat,AVAL,PARCAT1,categorical,0,3,,,Valor longitudinal de PARCAT1 no dataset ADRXFAIL.SAS7BDAT
+AVAL_adrxfail.sas7bdat_PARCAT2,adrxfail.sas7bdat,AVAL,PARCAT2,categorical,0,10,,,Valor longitudinal de PARCAT2 no dataset ADRXFAIL.SAS7BDAT
+AVAL_adrxfail.sas7bdat_PARAMCD,adrxfail.sas7bdat,AVAL,PARAMCD,categorical,0,40,,,Valor longitudinal de PARAMCD no dataset ADRXFAIL.SAS7BDAT
+AVAL_adrxfail.sas7bdat_PARAM,adrxfail.sas7bdat,AVAL,PARAM,categorical,0,40,,,Valor longitudinal de PARAM no dataset ADRXFAIL.SAS7BDAT
+AVAL_adrxfail.sas7bdat_AVAL,adrxfail.sas7bdat,AVAL,AVAL,numeric,93.07353574,5,0.326481836,0.574449149,Valor longitudinal de AVAL no dataset ADRXFAIL.SAS7BDAT
+AVAL_adrxfail.sas7bdat_AVALC,adrxfail.sas7bdat,AVAL,AVALC,categorical,0,3,,,Valor longitudinal de AVALC no dataset ADRXFAIL.SAS7BDAT
+STC_adrxfail.sas7bdat_SRCDOM,adrxfail.sas7bdat,STC,SRCDOM,categorical,0,2,,,Característica estática do paciente: SRCDOM (dataset ADRXFAIL.SAS7BDAT )
+AVAL_adrxfail.sas7bdat_SRCSEQ,adrxfail.sas7bdat,AVAL,SRCSEQ,numeric,70.5625269,7,3.352941176,1.642944166,Valor longitudinal de SRCSEQ no dataset ADRXFAIL.SAS7BDAT
+AVAL_adrxfail.sas7bdat_SRCVAR,adrxfail.sas7bdat,AVAL,SRCVAR,categorical,0,5,,,Valor longitudinal de SRCVAR no dataset ADRXFAIL.SAS7BDAT
+STC_adrxfail.sas7bdat_RANDFL,adrxfail.sas7bdat,STC,RANDFL,categorical,0,2,,,Característica estática do paciente: RANDFL (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_ATASFL,adrxfail.sas7bdat,STC,ATASFL,categorical,0,2,,,Característica estática do paciente: ATASFL (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_ATSAFFL,adrxfail.sas7bdat,STC,ATSAFFL,categorical,0,2,,,Característica estática do paciente: ATSAFFL (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_PASFL,adrxfail.sas7bdat,STC,PASFL,categorical,0,3,,,Característica estática do paciente: PASFL (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_PSAFFL,adrxfail.sas7bdat,STC,PSAFFL,categorical,0,3,,,Característica estática do paciente: PSAFFL (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_MPASFL,adrxfail.sas7bdat,STC,MPASFL,categorical,0,3,,,Característica estática do paciente: MPASFL (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_AGE,adrxfail.sas7bdat,STC,AGE,numeric,2.665298149,57,36.44537043,12.73227205,Característica estática do paciente: AGE (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_AGEU,adrxfail.sas7bdat,STC,AGEU,categorical,0,2,,,Característica estática do paciente: AGEU (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_SEX,adrxfail.sas7bdat,STC,SEX,categorical,0,3,,,Característica estática do paciente: SEX (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_RACE,adrxfail.sas7bdat,STC,RACE,categorical,0,6,,,Característica estática do paciente: RACE (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_COUNTRY,adrxfail.sas7bdat,STC,COUNTRY,categorical,0,37,,,Característica estática do paciente: COUNTRY (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_ETHNIC,adrxfail.sas7bdat,STC,ETHNIC,categorical,0,4,,,Característica estática do paciente: ETHNIC (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_SITEID,adrxfail.sas7bdat,STC,SITEID,categorical,0,187,,,Característica estática do paciente: SITEID (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxfail.sas7bdat_SUBJID,adrxfail.sas7bdat,STC,SUBJID,numeric,2.665298149,524,101597.1887,526.1094725,Característica estática do paciente: SUBJID (dataset ADRXFAIL.SAS7BDAT )
+STC_adrxhist.sas7bdat_STUDYID,adrxhist.sas7bdat,STC,STUDYID,categorical,0,2,,,Característica estática do paciente: STUDYID (dataset ADRXHIST.SAS7BDAT )
+AVAL_adrxhist.sas7bdat_ACAT1,adrxhist.sas7bdat,AVAL,ACAT1,categorical,0,3,,,Valor longitudinal de ACAT1 no dataset ADRXHIST.SAS7BDAT
+AVAL_adrxhist.sas7bdat_ACMOCCUR,adrxhist.sas7bdat,AVAL,ACMOCCUR,categorical,0,3,,,Valor longitudinal de ACMOCCUR no dataset ADRXHIST.SAS7BDAT
+AVAL_adrxhist.sas7bdat_ACMTRT,adrxhist.sas7bdat,AVAL,ACMTRT,categorical,0,15,,,Valor longitudinal de ACMTRT no dataset ADRXHIST.SAS7BDAT
+AVAL_adrxhist.sas7bdat_ACMREAS,adrxhist.sas7bdat,AVAL,ACMREAS,categorical,0,6,,,Valor longitudinal de ACMREAS no dataset ADRXHIST.SAS7BDAT
+AVAL_adrxhist.sas7bdat_ADUR,adrxhist.sas7bdat,AVAL,ADUR,categorical,0,4,,,Valor longitudinal de ADUR no dataset ADRXHIST.SAS7BDAT
+AVAL_adrxhist.sas7bdat_ASEQ,adrxhist.sas7bdat,AVAL,ASEQ,numeric,75.74744231,92,105.9620478,98.83749568,Valor longitudinal de ASEQ no dataset ADRXHIST.SAS7BDAT
+AVAL_adrxhist.sas7bdat_INTOLFL,adrxhist.sas7bdat,AVAL,INTOLFL,categorical,0,3,,,Valor longitudinal de INTOLFL no dataset ADRXHIST.SAS7BDAT
+AVAL_adrxhist.sas7bdat_DEPENDFL,adrxhist.sas7bdat,AVAL,DEPENDFL,categorical,0,3,,,Valor longitudinal de DEPENDFL no dataset ADRXHIST.SAS7BDAT
+AVAL_adrxhist.sas7bdat_NRESPFL,adrxhist.sas7bdat,AVAL,NRESPFL,categorical,0,3,,,Valor longitudinal de NRESPFL no dataset ADRXHIST.SAS7BDAT
+AVAL_adrxhist.sas7bdat_BIOFLNUM,adrxhist.sas7bdat,AVAL,BIOFLNUM,numeric,99.09611628,4,1.362637363,0.572336867,Valor longitudinal de BIOFLNUM no dataset ADRXHIST.SAS7BDAT
+STC_adrxhist.sas7bdat_TRT01P,adrxhist.sas7bdat,STC,TRT01P,categorical,0,5,,,Característica estática do paciente: TRT01P (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_TRT01PN,adrxhist.sas7bdat,STC,TRT01PN,numeric,2.665298149,5,2.295972515,1.033272098,Característica estática do paciente: TRT01PN (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_TRT01A,adrxhist.sas7bdat,STC,TRT01A,categorical,0,5,,,Característica estática do paciente: TRT01A (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_TRT01AN,adrxhist.sas7bdat,STC,TRT01AN,numeric,2.665298149,5,2.295972515,1.033272098,Característica estática do paciente: TRT01AN (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_TRT02P,adrxhist.sas7bdat,STC,TRT02P,categorical,0,6,,,Característica estática do paciente: TRT02P (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_TRT02PN,adrxhist.sas7bdat,STC,TRT02PN,numeric,4.304208191,6,2.382071065,1.213973455,Característica estática do paciente: TRT02PN (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_TRT02A,adrxhist.sas7bdat,STC,TRT02A,categorical,0,6,,,Característica estática do paciente: TRT02A (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_TRT02AN,adrxhist.sas7bdat,STC,TRT02AN,numeric,4.482998378,6,2.377170786,1.209808727,Característica estática do paciente: TRT02AN (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_RANDFL,adrxhist.sas7bdat,STC,RANDFL,categorical,0,2,,,Característica estática do paciente: RANDFL (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_ATASFL,adrxhist.sas7bdat,STC,ATASFL,categorical,0,2,,,Característica estática do paciente: ATASFL (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_ATSAFFL,adrxhist.sas7bdat,STC,ATSAFFL,categorical,0,2,,,Característica estática do paciente: ATSAFFL (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_PASFL,adrxhist.sas7bdat,STC,PASFL,categorical,0,3,,,Característica estática do paciente: PASFL (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_PSAFFL,adrxhist.sas7bdat,STC,PSAFFL,categorical,0,3,,,Característica estática do paciente: PSAFFL (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_MPASFL,adrxhist.sas7bdat,STC,MPASFL,categorical,0,3,,,Característica estática do paciente: MPASFL (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_AGE,adrxhist.sas7bdat,STC,AGE,numeric,2.665298149,57,36.44537043,12.73227205,Característica estática do paciente: AGE (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_AGEU,adrxhist.sas7bdat,STC,AGEU,categorical,0,2,,,Característica estática do paciente: AGEU (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_SEX,adrxhist.sas7bdat,STC,SEX,categorical,0,3,,,Característica estática do paciente: SEX (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_RACE,adrxhist.sas7bdat,STC,RACE,categorical,0,6,,,Característica estática do paciente: RACE (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_COUNTRY,adrxhist.sas7bdat,STC,COUNTRY,categorical,0,37,,,Característica estática do paciente: COUNTRY (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_ETHNIC,adrxhist.sas7bdat,STC,ETHNIC,categorical,0,4,,,Característica estática do paciente: ETHNIC (dataset ADRXHIST.SAS7BDAT )
+AVAL_adrxhist.sas7bdat_CMSEQ,adrxhist.sas7bdat,AVAL,CMSEQ,numeric,87.86875476,85,7.576146288,12.32507144,Valor longitudinal de CMSEQ no dataset ADRXHIST.SAS7BDAT
+STC_adrxhist.sas7bdat_SITEID,adrxhist.sas7bdat,STC,SITEID,categorical,0,187,,,Característica estática do paciente: SITEID (dataset ADRXHIST.SAS7BDAT )
+STC_adrxhist.sas7bdat_SUBJID,adrxhist.sas7bdat,STC,SUBJID,numeric,2.665298149,524,101597.1887,526.1094725,Característica estática do paciente: SUBJID (dataset ADRXHIST.SAS7BDAT )
+STC_adsaf.sas7bdat_STUDYID,adsaf.sas7bdat,STC,STUDYID,categorical,0,2,,,Característica estática do paciente: STUDYID (dataset ADSAF.SAS7BDAT )
+AVAL_adsaf.sas7bdat_ASEQ,adsaf.sas7bdat,AVAL,ASEQ,numeric,94.84157203,45,18.63621677,2.917626635,Valor longitudinal de ASEQ no dataset ADSAF.SAS7BDAT
+AVAL_adsaf.sas7bdat_ASTDT,adsaf.sas7bdat,AVAL,ASTDT,categorical,0,99,,,Valor longitudinal de ASTDT no dataset ADSAF.SAS7BDAT
+AVAL_adsaf.sas7bdat_AENDT,adsaf.sas7bdat,AVAL,AENDT,categorical,0,102,,,Valor longitudinal de AENDT no dataset ADSAF.SAS7BDAT
+AVAL_adsaf.sas7bdat_ATPT,adsaf.sas7bdat,AVAL,ATPT,categorical,0,4,,,Valor longitudinal de ATPT no dataset ADSAF.SAS7BDAT
+AVAL_adsaf.sas7bdat_ACOL,adsaf.sas7bdat,AVAL,ACOL,numeric,94.84819389,12,2.485107571,1.488484011,Valor longitudinal de ACOL no dataset ADSAF.SAS7BDAT
+AVAL_adsaf.sas7bdat_ACOLC,adsaf.sas7bdat,AVAL,ACOLC,categorical,0,6,,,Valor longitudinal de ACOLC no dataset ADSAF.SAS7BDAT
+AVAL_adsaf.sas7bdat_PARAMCD,adsaf.sas7bdat,AVAL,PARAMCD,categorical,0,3,,,Valor longitudinal de PARAMCD no dataset ADSAF.SAS7BDAT
+AVAL_adsaf.sas7bdat_PARAM,adsaf.sas7bdat,AVAL,PARAM,categorical,0,3,,,Valor longitudinal de PARAM no dataset ADSAF.SAS7BDAT
+AVAL_adsaf.sas7bdat_AVAL,adsaf.sas7bdat,AVAL,AVAL,numeric,94.84157203,515,138.8348579,103.5915775,Valor longitudinal de AVAL no dataset ADSAF.SAS7BDAT
+STC_adsaf.sas7bdat_AGE,adsaf.sas7bdat,STC,AGE,numeric,2.562659338,57,36.4322607,12.73196648,Característica estática do paciente: AGE (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_AGEU,adsaf.sas7bdat,STC,AGEU,categorical,0,2,,,Característica estática do paciente: AGEU (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_SEX,adsaf.sas7bdat,STC,SEX,categorical,0,3,,,Característica estática do paciente: SEX (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_RACE,adsaf.sas7bdat,STC,RACE,categorical,0,6,,,Característica estática do paciente: RACE (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_COUNTRY,adsaf.sas7bdat,STC,COUNTRY,categorical,0,37,,,Característica estática do paciente: COUNTRY (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_ETHNIC,adsaf.sas7bdat,STC,ETHNIC,categorical,0,4,,,Característica estática do paciente: ETHNIC (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_SITEID,adsaf.sas7bdat,STC,SITEID,categorical,0,187,,,Característica estática do paciente: SITEID (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_SUBJID,adsaf.sas7bdat,STC,SUBJID,numeric,2.562659338,525,101598.1397,526.6472288,Característica estática do paciente: SUBJID (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_TRT01P,adsaf.sas7bdat,STC,TRT01P,categorical,0,5,,,Característica estática do paciente: TRT01P (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_TRT01PN,adsaf.sas7bdat,STC,TRT01PN,numeric,2.562659338,5,2.295660743,1.03277235,Característica estática do paciente: TRT01PN (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_TRT01A,adsaf.sas7bdat,STC,TRT01A,categorical,0,6,,,Característica estática do paciente: TRT01A (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_TRT01AN,adsaf.sas7bdat,STC,TRT01AN,numeric,2.665298149,5,2.295972515,1.033272098,Característica estática do paciente: TRT01AN (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_TRT02P,adsaf.sas7bdat,STC,TRT02P,categorical,0,6,,,Característica estática do paciente: TRT02P (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_TRT02PN,adsaf.sas7bdat,STC,TRT02PN,numeric,4.304208191,6,2.382071065,1.213973455,Característica estática do paciente: TRT02PN (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_TRT02A,adsaf.sas7bdat,STC,TRT02A,categorical,0,6,,,Característica estática do paciente: TRT02A (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_TRT02AN,adsaf.sas7bdat,STC,TRT02AN,numeric,4.482998378,6,2.377170786,1.209808727,Característica estática do paciente: TRT02AN (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_RANDFL,adsaf.sas7bdat,STC,RANDFL,categorical,0,2,,,Característica estática do paciente: RANDFL (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_ATASFL,adsaf.sas7bdat,STC,ATASFL,categorical,0,3,,,Característica estática do paciente: ATASFL (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_ATSAFFL,adsaf.sas7bdat,STC,ATSAFFL,categorical,0,3,,,Característica estática do paciente: ATSAFFL (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_PASFL,adsaf.sas7bdat,STC,PASFL,categorical,0,3,,,Característica estática do paciente: PASFL (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_PSAFFL,adsaf.sas7bdat,STC,PSAFFL,categorical,0,3,,,Característica estática do paciente: PSAFFL (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_MPASFL,adsaf.sas7bdat,STC,MPASFL,categorical,0,3,,,Característica estática do paciente: MPASFL (dataset ADSAF.SAS7BDAT )
+STC_adsaf.sas7bdat_SAFSCFL,adsaf.sas7bdat,STC,SAFSCFL,categorical,0,3,,,Característica estática do paciente: SAFSCFL (dataset ADSAF.SAS7BDAT )
+STC_adsl.sas7bdat_STUDYID,adsl.sas7bdat,STC,STUDYID,categorical,0,1,,,Característica estática do paciente: STUDYID (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_ARM,adsl.sas7bdat,STC,ARM,categorical,0,7,,,Característica estática do paciente: ARM (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_TRT01P,adsl.sas7bdat,STC,TRT01P,categorical,0,5,,,Característica estática do paciente: TRT01P (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_TRT01PN,adsl.sas7bdat,STC,TRT01PN,numeric,2.562659338,5,2.295660743,1.03277235,Característica estática do paciente: TRT01PN (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_TRT01A,adsl.sas7bdat,STC,TRT01A,categorical,0,6,,,Característica estática do paciente: TRT01A (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_TRT01AN,adsl.sas7bdat,STC,TRT01AN,numeric,2.665298149,5,2.295972515,1.033272098,Característica estática do paciente: TRT01AN (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_TRT02P,adsl.sas7bdat,STC,TRT02P,categorical,0,6,,,Característica estática do paciente: TRT02P (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_TRT02PN,adsl.sas7bdat,STC,TRT02PN,numeric,4.304208191,6,2.382071065,1.213973455,Característica estática do paciente: TRT02PN (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_TRT02A,adsl.sas7bdat,STC,TRT02A,categorical,0,6,,,Característica estática do paciente: TRT02A (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_TRT02AN,adsl.sas7bdat,STC,TRT02AN,numeric,4.482998378,6,2.377170786,1.209808727,Característica estática do paciente: TRT02AN (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_RANDFL,adsl.sas7bdat,STC,RANDFL,categorical,0,2,,,Característica estática do paciente: RANDFL (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_ATASFL,adsl.sas7bdat,STC,ATASFL,categorical,0,2,,,Característica estática do paciente: ATASFL (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_PASFL,adsl.sas7bdat,STC,PASFL,categorical,0,2,,,Característica estática do paciente: PASFL (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_MPASFL,adsl.sas7bdat,STC,MPASFL,categorical,0,2,,,Característica estática do paciente: MPASFL (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_PAS12FL,adsl.sas7bdat,STC,PAS12FL,categorical,0,2,,,Característica estática do paciente: PAS12FL (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_PAS24FL,adsl.sas7bdat,STC,PAS24FL,categorical,0,2,,,Característica estática do paciente: PAS24FL (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_ATSAFFL,adsl.sas7bdat,STC,ATSAFFL,categorical,0,2,,,Característica estática do paciente: ATSAFFL (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_PSAFFL,adsl.sas7bdat,STC,PSAFFL,categorical,0,2,,,Característica estática do paciente: PSAFFL (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_TRT12FL,adsl.sas7bdat,STC,TRT12FL,categorical,0,2,,,Característica estática do paciente: TRT12FL (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_TRT24FL,adsl.sas7bdat,STC,TRT24FL,categorical,0,2,,,Característica estática do paciente: TRT24FL (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_SAFSCFL,adsl.sas7bdat,STC,SAFSCFL,categorical,0,2,,,Característica estática do paciente: SAFSCFL (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_AGE,adsl.sas7bdat,STC,AGE,numeric,0,62,36.50620799,12.78785709,Característica estática do paciente: AGE (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_AGEU,adsl.sas7bdat,STC,AGEU,categorical,0,1,,,Característica estática do paciente: AGEU (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_AGEGRP1,adsl.sas7bdat,STC,AGEGRP1,categorical,0,3,,,Característica estática do paciente: AGEGRP1 (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_AGEGRP1N,adsl.sas7bdat,STC,AGEGRP1N,numeric,5.443167897,3,1.476627333,0.499462164,Característica estática do paciente: AGEGRP1N (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_SEX,adsl.sas7bdat,STC,SEX,categorical,0,2,,,Característica estática do paciente: SEX (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_RACE,adsl.sas7bdat,STC,RACE,categorical,0,6,,,Característica estática do paciente: RACE (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_ETHNIC,adsl.sas7bdat,STC,ETHNIC,categorical,0,3,,,Característica estática do paciente: ETHNIC (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_COUNTRY,adsl.sas7bdat,STC,COUNTRY,categorical,0,40,,,Característica estática do paciente: COUNTRY (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_REGION1,adsl.sas7bdat,STC,REGION1,categorical,0,4,,,Característica estática do paciente: REGION1 (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_REGION1N,adsl.sas7bdat,STC,REGION1N,numeric,0,4,2.341687912,1.056821848,Característica estática do paciente: REGION1N (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_RFICDT,adsl.sas7bdat,STC,RFICDT,categorical,0,514,,,Característica estática do paciente: RFICDT (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_RANDDT,adsl.sas7bdat,STC,RANDDT,categorical,0,362,,,Característica estática do paciente: RANDDT (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_ARFSTDT,adsl.sas7bdat,STC,ARFSTDT,categorical,0,359,,,Característica estática do paciente: ARFSTDT (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_ARFSTTM,adsl.sas7bdat,STC,ARFSTTM,numeric,2.665298149,233,44815.47724,7127.547793,Característica estática do paciente: ARFSTTM (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_TRTSDT,adsl.sas7bdat,STC,TRTSDT,categorical,0,359,,,Característica estática do paciente: TRTSDT (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_TRTSTM,adsl.sas7bdat,STC,TRTSTM,numeric,2.665298149,233,44815.47724,7127.547793,Característica estática do paciente: TRTSTM (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_TRTEDT,adsl.sas7bdat,STC,TRTEDT,categorical,0,348,,,Característica estática do paciente: TRTEDT (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_TRTETM,adsl.sas7bdat,STC,TRTETM,numeric,2.665298149,303,44027.02973,8596.056405,Característica estática do paciente: TRTETM (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_TR01SDT,adsl.sas7bdat,STC,TR01SDT,categorical,0,359,,,Característica estática do paciente: TR01SDT (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_TR01EDT,adsl.sas7bdat,STC,TR01EDT,categorical,0,345,,,Característica estática do paciente: TR01EDT (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_TR02SDT,adsl.sas7bdat,STC,TR02SDT,categorical,0,356,,,Característica estática do paciente: TR02SDT (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_TR02EDT,adsl.sas7bdat,STC,TR02EDT,categorical,0,343,,,Característica estática do paciente: TR02EDT (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_W12RFDT,adsl.sas7bdat,STC,W12RFDT,categorical,0,352,,,Característica estática do paciente: W12RFDT (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_W12RFTM,adsl.sas7bdat,STC,W12RFTM,numeric,5.022679866,230,45074.49278,7239.301965,Característica estática do paciente: W12RFTM (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_W48RFDT,adsl.sas7bdat,STC,W48RFDT,categorical,0,356,,,Característica estática do paciente: W48RFDT (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_W48RFTM,adsl.sas7bdat,STC,W48RFTM,binary,100,1,,,Característica estática do paciente: W48RFTM (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_HEIGHTBL,adsl.sas7bdat,STC,HEIGHTBL,numeric,2.562659338,135,170.2214109,9.889606511,Característica estática do paciente: HEIGHTBL (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_WEIGHTBL,adsl.sas7bdat,STC,WEIGHTBL,numeric,2.562659338,290,67.02984131,15.9118382,Característica estática do paciente: WEIGHTBL (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_WGTGRP1,adsl.sas7bdat,STC,WGTGRP1,categorical,0,3,,,Característica estática do paciente: WGTGRP1 (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_WGTGRP1N,adsl.sas7bdat,STC,WGTGRP1N,numeric,5.443167897,3,1.482649953,0.499707634,Característica estática do paciente: WGTGRP1N (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_WGTGRP2,adsl.sas7bdat,STC,WGTGRP2,categorical,0,5,,,Característica estática do paciente: WGTGRP2 (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_WGTGRP2N,adsl.sas7bdat,STC,WGTGRP2N,numeric,5.443167897,5,2.472180398,1.108505835,Característica estática do paciente: WGTGRP2N (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_BMIBL,adsl.sas7bdat,STC,BMIBL,numeric,2.562659338,512,23.03422987,4.711179335,Característica estática do paciente: BMIBL (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_RASTRA1,adsl.sas7bdat,STC,RASTRA1,categorical,0,3,,,Característica estática do paciente: RASTRA1 (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_RASTRA2,adsl.sas7bdat,STC,RASTRA2,categorical,0,3,,,Característica estática do paciente: RASTRA2 (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_RASTRA3,adsl.sas7bdat,STC,RASTRA3,categorical,0,3,,,Característica estática do paciente: RASTRA3 (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_RASTRA4,adsl.sas7bdat,STC,RASTRA4,categorical,0,3,,,Característica estática do paciente: RASTRA4 (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_BIOCON,adsl.sas7bdat,STC,BIOCON,categorical,0,3,,,Característica estática do paciente: BIOCON (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_DTHDT,adsl.sas7bdat,STC,DTHDT,categorical,0,2,,,Característica estática do paciente: DTHDT (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_DTHDTC,adsl.sas7bdat,STC,DTHDTC,categorical,0,2,,,Característica estática do paciente: DTHDTC (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_DTHDTF,adsl.sas7bdat,STC,DTHDTF,binary,100,1,,,Característica estática do paciente: DTHDTF (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_DTHDY,adsl.sas7bdat,STC,DTHDY,binary,100,1,,,Característica estática do paciente: DTHDY (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_DTHFL,adsl.sas7bdat,STC,DTHFL,categorical,0,2,,,Característica estática do paciente: DTHFL (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_DTHCAUS,adsl.sas7bdat,STC,DTHCAUS,categorical,0,2,,,Característica estática do paciente: DTHCAUS (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_DTHTRTFL,adsl.sas7bdat,STC,DTHTRTFL,binary,100,1,,,Característica estática do paciente: DTHTRTFL (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_GROUP,adsl.sas7bdat,STC,GROUP,categorical,0,2,,,Característica estática do paciente: GROUP (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_SUBJID,adsl.sas7bdat,STC,SUBJID,numeric,0,1298,101599.169,526.8119836,Característica estática do paciente: SUBJID (dataset ADSL.SAS7BDAT )
+STC_adsl.sas7bdat_SITEID,adsl.sas7bdat,STC,SITEID,categorical,0,313,,,Característica estática do paciente: SITEID (dataset ADSL.SAS7BDAT )
+STC_advscdai.sas7bdat_STUDYID,advscdai.sas7bdat,STC,STUDYID,categorical,0,2,,,Característica estática do paciente: STUDYID (dataset ADVSCDAI.SAS7BDAT )
+AVAL_advscdai.sas7bdat_ASEQ,advscdai.sas7bdat,AVAL,ASEQ,numeric,77.43270536,267,314.8239974,19.99848297,Valor longitudinal de ASEQ no dataset ADVSCDAI.SAS7BDAT
+AVAL_advscdai.sas7bdat_ADT,advscdai.sas7bdat,AVAL,ADT,categorical,0,950,,,Valor longitudinal de ADT no dataset ADVSCDAI.SAS7BDAT
+AVAL_advscdai.sas7bdat_ADY,advscdai.sas7bdat,AVAL,ADY,numeric,77.43270536,358,170.7369364,105.5869389,Valor longitudinal de ADY no dataset ADVSCDAI.SAS7BDAT
+STC_advscdai.sas7bdat_TRT01P,advscdai.sas7bdat,STC,TRT01P,categorical,0,5,,,Característica estática do paciente: TRT01P (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_TRT01PN,advscdai.sas7bdat,STC,TRT01PN,numeric,2.562659338,5,2.295660743,1.03277235,Característica estática do paciente: TRT01PN (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_TRT01A,advscdai.sas7bdat,STC,TRT01A,categorical,0,6,,,Característica estática do paciente: TRT01A (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_TRT01AN,advscdai.sas7bdat,STC,TRT01AN,numeric,2.665298149,5,2.295972515,1.033272098,Característica estática do paciente: TRT01AN (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_TRT02P,advscdai.sas7bdat,STC,TRT02P,categorical,0,6,,,Característica estática do paciente: TRT02P (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_TRT02PN,advscdai.sas7bdat,STC,TRT02PN,numeric,4.304208191,6,2.382071065,1.213973455,Característica estática do paciente: TRT02PN (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_TRT02A,advscdai.sas7bdat,STC,TRT02A,categorical,0,6,,,Característica estática do paciente: TRT02A (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_TRT02AN,advscdai.sas7bdat,STC,TRT02AN,numeric,4.482998378,6,2.377170786,1.209808727,Característica estática do paciente: TRT02AN (dataset ADVSCDAI.SAS7BDAT )
+AVAL_advscdai.sas7bdat_PARAMCD,advscdai.sas7bdat,AVAL,PARAMCD,categorical,0,3,,,Valor longitudinal de PARAMCD no dataset ADVSCDAI.SAS7BDAT
+AVAL_advscdai.sas7bdat_PARAM,advscdai.sas7bdat,AVAL,PARAM,categorical,0,3,,,Valor longitudinal de PARAM no dataset ADVSCDAI.SAS7BDAT
+AVAL_advscdai.sas7bdat_AVAL,advscdai.sas7bdat,AVAL,AVAL,numeric,77.54196603,5820,59.54817841,39.6240318,Valor longitudinal de AVAL no dataset ADVSCDAI.SAS7BDAT
+AVAL_advscdai.sas7bdat_AVALC,advscdai.sas7bdat,AVAL,AVALC,binary,100,1,,,Valor longitudinal de AVALC no dataset ADVSCDAI.SAS7BDAT
+AVAL_advscdai.sas7bdat_BASE,advscdai.sas7bdat,AVAL,BASE,numeric,77.43270536,599,109.061858,19.91159458,Valor longitudinal de BASE no dataset ADVSCDAI.SAS7BDAT
+AVAL_advscdai.sas7bdat_CHG,advscdai.sas7bdat,AVAL,CHG,numeric,79.27689302,5551,-52.70777747,37.23824067,Valor longitudinal de CHG no dataset ADVSCDAI.SAS7BDAT
+AVAL_advscdai.sas7bdat_PCHG,advscdai.sas7bdat,AVAL,PCHG,numeric,79.27689302,5758,-44.27591003,39.03801417,Valor longitudinal de PCHG no dataset ADVSCDAI.SAS7BDAT
+AVAL_advscdai.sas7bdat_DTYPE,advscdai.sas7bdat,AVAL,DTYPE,categorical,0,2,,,Valor longitudinal de DTYPE no dataset ADVSCDAI.SAS7BDAT
+AVAL_advscdai.sas7bdat_ANL01FL,advscdai.sas7bdat,AVAL,ANL01FL,categorical,0,2,,,Valor longitudinal de ANL01FL no dataset ADVSCDAI.SAS7BDAT
+STC_advscdai.sas7bdat_ANL02FL,advscdai.sas7bdat,STC,ANL02FL,binary,100,1,,,Característica estática do paciente: ANL02FL (dataset ADVSCDAI.SAS7BDAT )
+AVAL_advscdai.sas7bdat_ANL03FL,advscdai.sas7bdat,AVAL,ANL03FL,categorical,0,2,,,Valor longitudinal de ANL03FL no dataset ADVSCDAI.SAS7BDAT
+AVAL_advscdai.sas7bdat_ANL04FL,advscdai.sas7bdat,AVAL,ANL04FL,categorical,0,2,,,Valor longitudinal de ANL04FL no dataset ADVSCDAI.SAS7BDAT
+AVAL_advscdai.sas7bdat_ABLFL,advscdai.sas7bdat,AVAL,ABLFL,categorical,0,2,,,Valor longitudinal de ABLFL no dataset ADVSCDAI.SAS7BDAT
+AVAL_advscdai.sas7bdat_APOBLFL,advscdai.sas7bdat,AVAL,APOBLFL,categorical,0,2,,,Valor longitudinal de APOBLFL no dataset ADVSCDAI.SAS7BDAT
+STC_advscdai.sas7bdat_RANDFL,advscdai.sas7bdat,STC,RANDFL,categorical,0,2,,,Característica estática do paciente: RANDFL (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_ATASFL,advscdai.sas7bdat,STC,ATASFL,categorical,0,3,,,Característica estática do paciente: ATASFL (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_ATSAFFL,advscdai.sas7bdat,STC,ATSAFFL,categorical,0,3,,,Característica estática do paciente: ATSAFFL (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_PASFL,advscdai.sas7bdat,STC,PASFL,categorical,0,3,,,Característica estática do paciente: PASFL (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_PSAFFL,advscdai.sas7bdat,STC,PSAFFL,categorical,0,3,,,Característica estática do paciente: PSAFFL (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_MPASFL,advscdai.sas7bdat,STC,MPASFL,categorical,0,3,,,Característica estática do paciente: MPASFL (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_BIOCON,advscdai.sas7bdat,STC,BIOCON,categorical,0,3,,,Característica estática do paciente: BIOCON (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_RASTRA1,advscdai.sas7bdat,STC,RASTRA1,categorical,0,3,,,Característica estática do paciente: RASTRA1 (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_RASTRA2,advscdai.sas7bdat,STC,RASTRA2,categorical,0,3,,,Característica estática do paciente: RASTRA2 (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_RASTRA3,advscdai.sas7bdat,STC,RASTRA3,categorical,0,3,,,Característica estática do paciente: RASTRA3 (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_RASTRA4,advscdai.sas7bdat,STC,RASTRA4,categorical,0,3,,,Característica estática do paciente: RASTRA4 (dataset ADVSCDAI.SAS7BDAT )
+AVAL_advscdai.sas7bdat_SRCDOM,advscdai.sas7bdat,AVAL,SRCDOM,categorical,0,2,,,Valor longitudinal de SRCDOM no dataset ADVSCDAI.SAS7BDAT
+AVAL_advscdai.sas7bdat_SRCVAR,advscdai.sas7bdat,AVAL,SRCVAR,categorical,0,2,,,Valor longitudinal de SRCVAR no dataset ADVSCDAI.SAS7BDAT
+AVAL_advscdai.sas7bdat_SRCSEQ,advscdai.sas7bdat,AVAL,SRCSEQ,numeric,78.72396782,147,165.5763373,17.62474533,Valor longitudinal de SRCSEQ no dataset ADVSCDAI.SAS7BDAT
+STC_advscdai.sas7bdat_AGE,advscdai.sas7bdat,STC,AGE,numeric,2.562659338,57,36.4322607,12.73196648,Característica estática do paciente: AGE (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_AGEU,advscdai.sas7bdat,STC,AGEU,categorical,0,2,,,Característica estática do paciente: AGEU (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_SEX,advscdai.sas7bdat,STC,SEX,categorical,0,3,,,Característica estática do paciente: SEX (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_RACE,advscdai.sas7bdat,STC,RACE,categorical,0,6,,,Característica estática do paciente: RACE (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_COUNTRY,advscdai.sas7bdat,STC,COUNTRY,categorical,0,37,,,Característica estática do paciente: COUNTRY (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_ETHNIC,advscdai.sas7bdat,STC,ETHNIC,categorical,0,4,,,Característica estática do paciente: ETHNIC (dataset ADVSCDAI.SAS7BDAT )
+AVAL_advscdai.sas7bdat_VISIT,advscdai.sas7bdat,AVAL,VISIT,categorical,0,16,,,Valor longitudinal de VISIT no dataset ADVSCDAI.SAS7BDAT
+AVAL_advscdai.sas7bdat_VISITNUM,advscdai.sas7bdat,AVAL,VISITNUM,numeric,78.72396782,16,28810.25086,8013.307767,Valor longitudinal de VISITNUM no dataset ADVSCDAI.SAS7BDAT
+STC_advscdai.sas7bdat_SITEID,advscdai.sas7bdat,STC,SITEID,categorical,0,187,,,Característica estática do paciente: SITEID (dataset ADVSCDAI.SAS7BDAT )
+STC_advscdai.sas7bdat_SUBJID,advscdai.sas7bdat,STC,SUBJID,numeric,2.562659338,525,101598.1397,526.6472288,Característica estática do paciente: SUBJID (dataset ADVSCDAI.SAS7BDAT )
