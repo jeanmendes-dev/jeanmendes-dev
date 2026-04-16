@@ -242,23 +242,25 @@ build_spine <- function(datasets) {
 }
 
 # ===============================
-# 4. CLASSIFICATION
+# 4. CLASSIFICATION (vectorized)
 # ===============================
-classify_variable <- function(df, var) {
+# Classifica TODAS as variáveis de um dataset em uma única passagem,
+# evitando N chamadas de group_by separadas sobre datasets grandes
+# (ex: admayo com 790k linhas × 55 vars travava com a abordagem coluna-a-coluna).
+classify_all_variables <- function(df, vars) {
 
-  tmp <- df %>%
-    select(USUBJID, all_of(var)) %>%
-    distinct()
+  # Uma única operação: para cada USUBJID, contar distintos de todas as vars
+  # Usa data.table internamente para performance em datasets grandes
+  dt <- as.data.table(df[, c("USUBJID", vars), drop = FALSE])
 
-  variability <- tmp %>%
-    group_by(USUBJID) %>%
-    summarise(n = n_distinct(.data[[var]]), .groups = "drop")
+  # n_distinct por USUBJID para cada variável — uma passagem só
+  variability <- dt[, lapply(.SD, function(x) uniqueN(x, na.rm = TRUE)),
+                    by = USUBJID, .SDcols = vars]
 
-  if (any(variability$n > 1, na.rm = TRUE)) {
-    return("LONGITUDINAL")
-  } else {
-    return("STATIC")
-  }
+  # Variável é LONGITUDINAL se qualquer sujeito tem > 1 valor distinto
+  is_longitudinal <- sapply(vars, function(v) any(variability[[v]] > 1, na.rm = TRUE))
+
+  return(ifelse(is_longitudinal, "LONGITUDINAL", "STATIC"))
 }
 
 # ===============================
@@ -290,34 +292,46 @@ extract_dataset <- function(df, dataset_name) {
   # Nome limpo para prefixo: remove sufixo .sas7bdat, uppercase
   clean_name <- toupper(gsub("\\.sas7bdat$", "", dataset_name))
 
-  for (v in vars) {
+  # Classificar todas as variáveis de uma vez (evita loop de group_by)
+  class_map <- classify_all_variables(df, vars)
 
-    class_type <- classify_variable(df, v)
+  long_vars   <- vars[class_map == "LONGITUDINAL"]
+  static_vars <- vars[class_map == "STATIC"]
 
-    if (class_type == "LONGITUDINAL") {
+  log_info(paste0("  ", dataset_name, ": ", length(long_vars),
+                  " longitudinais / ", length(static_vars), " estáticas"))
 
-      tmp <- df %>%
-        select(USUBJID, AVISITN, value = all_of(v)) %>%
-        group_by(USUBJID, AVISITN) %>%
-        summarise(value = aggregate_value(value), .groups = "drop")
+  # --- LONGITUDINAIS: agregação por USUBJID × AVISITN ---
+  if (length(long_vars) > 0) {
 
-      colname     <- paste0("AVAL_", clean_name, "_", v)
-      names(tmp)[3] <- colname
+    dt_long <- as.data.table(df[, c("USUBJID", "AVISITN", long_vars), drop = FALSE])
 
-      extracted[[colname]] <- tmp
+    # Agregar todas as colunas longitudinais em uma só operação
+    agg_long <- dt_long[, lapply(.SD, aggregate_value),
+                        by = .(USUBJID, AVISITN), .SDcols = long_vars]
+
+    for (v in long_vars) {
+      colname <- paste0("AVAL_", clean_name, "_", v)
+      tmp     <- agg_long[, .(USUBJID, AVISITN, value = get(v))]
+      setnames(tmp, "value", colname)
+      extracted[[colname]] <- as.data.frame(tmp)
       used_vars <- c(used_vars, v)
+    }
+  }
 
-    } else {
+  # --- ESTÁTICAS: agregação por USUBJID ---
+  if (length(static_vars) > 0) {
 
-      tmp <- df %>%
-        select(USUBJID, value = all_of(v)) %>%
-        group_by(USUBJID) %>%
-        summarise(value = aggregate_value(value), .groups = "drop")
+    dt_static <- as.data.table(df[, c("USUBJID", static_vars), drop = FALSE])
 
-      colname     <- paste0("STC_", clean_name, "_", v)
-      names(tmp)[2] <- colname
+    agg_static <- dt_static[, lapply(.SD, aggregate_value),
+                             by = USUBJID, .SDcols = static_vars]
 
-      extracted[[colname]] <- tmp
+    for (v in static_vars) {
+      colname <- paste0("STC_", clean_name, "_", v)
+      tmp     <- agg_static[, .(USUBJID, value = get(v))]
+      setnames(tmp, "value", colname)
+      extracted[[colname]] <- as.data.frame(tmp)
       used_vars <- c(used_vars, v)
     }
   }
