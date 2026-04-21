@@ -9,7 +9,6 @@
        alt="R Logo" 
        width="140">
 
-  <h1>Jean Mendes</h1>
   <h3>Clinical Statistical Programmer | CDISC | Regulatory-Ready Analytics | Reproducible Workflows in R</h3>
 
 </div>
