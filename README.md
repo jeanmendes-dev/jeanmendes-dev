@@ -1,5 +1,5 @@
 <!-- 
-  Profile README — Jean Mendes
+  Profile README 
   Clinical Statistical Programming | CDISC | Regulatory Analytics
 -->
 
