@@ -85,7 +85,7 @@ Current areas of interest
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,postgresql,r"/>
+<img src="https://skillicons.dev/icons?i=python,r,postgresql"/>
 
 <img src="https://img.shields.io/badge/SAS-005CAA?style=for-the-badge&logo=sas&logoColor=white">
 
@@ -93,14 +93,27 @@ Current areas of interest
 
 ---
 
+## Clinical Trial Data
+
+* CDISC SDTM
+* CDISC ADaM
+* Clinical Data Engineering
+* Statistical Programming
+* Data Validation
+* QC Programming
+* TLF Support
+  
+---
+
 ## Data Engineering
 
+* PostgreSQL
 * DuckDB
 * Apache Arrow
 * Parquet
+* SQL
 * Pandas
 * Polars
-* SQL
 
 ---
 
@@ -109,6 +122,7 @@ Current areas of interest
 * Regression
 * Statistical Modeling
 * Experimental Design
+* Longitudinal Analysis
 * Bayesian Statistics
 * Data Exploration
 * Data Visualization
@@ -120,6 +134,8 @@ Current areas of interest
 * Scikit-Learn
 * XGBoost
 * LightGBM
+* Clinical Predictive Modeling
+* Feature Engineering
 
 ---
 
@@ -144,14 +160,13 @@ Current areas of interest
 
 # Featured Projects
 
-| Project                 | Description                               |
-| ----------------------- | ----------------------------------------- |
-| 📊 Data Explorer        | Interactive data exploration application  |
-| ⚙️ Analytics Pipeline   | End-to-end analytical workflow            |
-| 📈 Statistical Toolkit  | Reusable statistical functions            |
-| 🤖 Machine Learning Lab | Predictive modeling experiments           |
-| 🌎 Geospatial Analytics | Spatial analysis and visualization        |
-| 📦 Open Data Projects   | Public datasets and reproducible analyses |
+| Project                   | Description                                |
+| -----------------------   | -----------------------------------------  |
+| 📊 Data Explorer          | Interactive exploration of datasets        |
+| ⚙️ Data Pipelines         | Reproducible ETL workflows                 |
+| 📈 Statistical Toolkit    | Reusable statistical functions             |
+| 🤖 Machine Learning Lab   | Predictive modeling experiments            |
+| 📦 Open Data Projects     | Public datasets and reproducible analyses  |
 
 ---
 
@@ -215,9 +230,11 @@ class CurrentFocus:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jeanmlv&show_icons=true&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=jeanmlv&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmlv&layout=compact&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmlv&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -226,6 +243,14 @@ class CurrentFocus:
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=jeanmlv&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeanmlv&theme=github-dark&hide_border=true"/>
 
 </p>
 
