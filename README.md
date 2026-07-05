@@ -8,7 +8,7 @@
 
 ### Building software for data-intensive problems.
 
-**R • SAS • Python • Statistics • Data Engineering • Machine Learning**
+**R • SAS • Python • Statistics • Data Engineering • Clinical Research • Machine Learning**
 
 <br>
 
@@ -38,6 +38,7 @@ My interests lie at the intersection of
 
 - Software Engineering
 - Statistical Computing
+- Clinical Programming
 - Data Engineering
 - Machine Learning
 - Data Visualization
@@ -67,7 +68,8 @@ Raw Data
 
 Current areas of interest
 
-* R/SAS Statistical Programming
+* Statistical Programming (R & SAS)
+* CDISC (SDTM & ADaM)
 * Python Applications
 * Interactive Dashboards
 * Data Pipelines
@@ -83,7 +85,9 @@ Current areas of interest
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,r,sqlite"/>
+<img src="https://skillicons.dev/icons?i=python,postgresql,r"/>
+
+<img src="https://img.shields.io/badge/SAS-005CAA?style=for-the-badge&logo=sas&logoColor=white">
 
 </p>
 
