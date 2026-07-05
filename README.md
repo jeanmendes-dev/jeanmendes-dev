@@ -189,15 +189,16 @@ Every project should be
 class CurrentFocus:
 
     languages = [
-        "Python",
         "R",
+        "SAS",
+        "Python",
         "SQL"
     ]
 
     learning = [
-        "Data Engineering",
-        "Machine Learning",
         "Statistical Computing",
+        "Clinical Programming",
+        "Data Engineering",
         "Software Architecture"
     ]
 
@@ -227,18 +228,6 @@ class CurrentFocus:
 ---
 
 # GitHub Activity
-
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=jeanmlv&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmlv&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
 
 <p align="center">
 
