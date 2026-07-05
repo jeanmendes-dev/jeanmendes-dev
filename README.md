@@ -67,8 +67,8 @@ Raw Data
 
 Current areas of interest
 
+* R/SAS Statistical Programming
 * Python Applications
-* R Statistical Programming
 * Interactive Dashboards
 * Data Pipelines
 * Machine Learning
