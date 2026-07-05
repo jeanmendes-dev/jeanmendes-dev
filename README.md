@@ -8,7 +8,7 @@
 
 ### Building software for data-intensive problems.
 
-**Python • R • Statistics • Data Engineering • Machine Learning**
+**R • SAS • Python • Statistics • Data Engineering • Machine Learning**
 
 <br>
 
