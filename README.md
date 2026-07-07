@@ -226,11 +226,24 @@ class CurrentFocus:
 * Open Source
 
 
-<div align="center">
+---
 
-### Thanks for visiting!
+# GitHub Analytics
 
-⭐ Feel free to explore my repositories and follow my journey.
+<p align="center">
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jeanmlv&show_icons=true&theme=github_dark&hide_border=true"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmlv&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeanmlv&theme=github-dark&hide_border=true"/>
+
+</p>
