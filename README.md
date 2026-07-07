@@ -228,19 +228,30 @@ class CurrentFocus:
 
 ---
 
-# GitHub Streak
+# Featured Repositories
 
-<p align="center">
+<table>
+<tr>
 
-<img src="https://streak-stats.demolab.com?user=jeanmendes-dev&theme=github-dark&hide_border=true"/>
+<td width="50%">
 
-</p>
+<a href="https://github.com/jeanmendes-dev/clinical-programming">
 
----
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jeanmendes-dev&repo=clinical-programming&theme=github_dark&hide_border=true">
 
-# GitHub Activity
+</a>
 
-<p align="center">
+</td>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeanmendes-dev&theme=github-dark&hide_border=true"/>
-</p>
+<td width="50%">
+
+<a href="https://github.com/jeanmendes-dev/data-pipelines">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jeanmendes-dev&repo=data-pipelines&theme=github_dark&hide_border=true">
+
+</a>
+
+</td>
+
+</tr>
+</table>
