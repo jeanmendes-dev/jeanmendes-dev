@@ -228,15 +228,11 @@ class CurrentFocus:
 
 ---
 
-# GitHub Analytics
+# GitHub Streak
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=jeanmendes-dev&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmendes-dev&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=jeanmendes-dev&theme=github-dark&hide_border=true"/>
 
 </p>
 
