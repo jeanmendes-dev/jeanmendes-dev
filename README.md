@@ -233,5 +233,4 @@ class CurrentFocus:
 ⭐ Feel free to explore my repositories and follow my journey.
 
 </div>
-```
 
