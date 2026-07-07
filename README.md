@@ -241,7 +241,5 @@ class CurrentFocus:
 # Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/jeanmlv/jeanmlv/output/github-contribution-grid-snake-dark.svg">
-
+<img src="https://raw.githubusercontent.com/jeanmendes-dev/jeanmendes-dev/output/github-contribution-grid-snake-dark.svg">
 </p>
