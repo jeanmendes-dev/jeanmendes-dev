@@ -40,9 +40,8 @@ My interests lie at the intersection of
 - Statistical Computing
 - Clinical Programming
 - Data Engineering
-- Machine Learning
+- Pharmaceutical Analytics
 - Data Visualization
-- Scientific Computing
 
 I enjoy designing tools, automation pipelines and analytical applications that make data easier to understand, explore and trust.
 
