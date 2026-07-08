@@ -128,13 +128,12 @@ Current areas of interest
 
 ---
 
-## Machine Learning
+## Pharmaceutical Analytics
 
-* Scikit-Learn
-* XGBoost
-* LightGBM
-* Clinical Predictive Modeling
-* Feature Engineering
+* Product Quality Review
+* Stability Study Analysis
+* SPC 
+* Pharmacovigilance
 
 ---
 
@@ -164,7 +163,6 @@ Current areas of interest
 | 📊 Data Explorer          | Interactive exploration of datasets        |
 | ⚙️ Data Pipelines         | Reproducible ETL workflows                 |
 | 📈 Statistical Toolkit    | Reusable statistical functions             |
-| 🤖 Machine Learning Lab   | Predictive modeling experiments            |
 | 📦 Open Data Projects     | Public datasets and reproducible analyses  |
 
 ---
@@ -210,20 +208,6 @@ class CurrentFocus:
 
     philosophy = "Write code that future you will thank you for."
 ```
-
----
-
-# Interests
-
-* Data Science
-* Statistics
-* Artificial Intelligence
-* Machine Learning
-* Data Engineering
-* Scientific Computing
-* Automation
-* Open Source
-
 
 ---
 
