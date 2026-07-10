@@ -65,7 +65,6 @@ Current areas of interest
 * Python Applications
 * Interactive Dashboards
 * Data Pipelines
-* Machine Learning
 * Reproducible Analytics
 * Open Source Projects
 
@@ -157,19 +156,6 @@ Current areas of interest
 | ⚙️ Data Pipelines         | Reproducible ETL workflows                 |
 | 📈 Statistical Toolkit    | Reusable statistical functions             |
 | 📦 Open Data Projects     | Public datasets and reproducible analyses  |
-
----
-
-# Engineering Principles
-
-Every project should be
-
-* Reproducible
-* Modular
-* Well Documented
-* Tested
-* Version Controlled
-* Easy to Maintain
 
 ---
 
