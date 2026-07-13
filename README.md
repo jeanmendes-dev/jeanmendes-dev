@@ -70,16 +70,23 @@ Current areas of interest
 
 # Tech Stack
 
-## Languages
+### Programming Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,r,postgresql,git,github,vscode,docker"/>
-
+<img src="https://skillicons.dev/icons?i=python,r" />
 <img src="https://img.shields.io/badge/SAS-005CAA?style=for-the-badge&logo=sas&logoColor=white">
+</p>
 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SAS](https://img.shields.io/badge/SAS-005CAA?style=for-the-badge&logo=sas&logoColor=white))
+### Databases
 
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
+</p>
+
+### Tools & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
 
 ---
