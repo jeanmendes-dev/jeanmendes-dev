@@ -6,13 +6,7 @@
 
 # 👨‍💻 Jean Mendes
 
-### Building software for data-intensive problems.
-
 **R • SAS • Python • Statistics • Data Engineering • Clinical Programming**
-
-<br>
-
-*"Turning raw data into reliable software."*
 
 <br>
 
