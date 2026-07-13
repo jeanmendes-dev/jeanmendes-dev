@@ -2,6 +2,8 @@
 <!--                    GitHub Profile README                  -->
 <!-- ========================================================= -->
 
+<div align="center">
+
 # 👨‍💻 Jean Mendes
 
 ### Building software for data-intensive problems.
@@ -133,16 +135,6 @@ Current areas of interest
 
 ---
 
-# Currently Building
-
-- 🌍 GeoHealthTech
-- 🧬 Clinical Trial Explorer
-- 📊 SDTM Dataset Generator
-- ⚙️ Clinical Programming Toolkit
-- 📈 Statistical Computing Projects
-
----
-
 # GitHub Activity
 
 <p align="center">
@@ -156,13 +148,3 @@ Current areas of interest
 <img src="https://raw.githubusercontent.com/jeanmendes-dev/jeanmendes-dev/output/github-contribution-grid-snake-dark.svg">
 
 </p>
-
----
-
-# Philosophy
-
-> Good software is not only about writing code.
->
-> It is about building systems that people can understand, reproduce and improve.
-
----
