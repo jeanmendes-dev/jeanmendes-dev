@@ -32,21 +32,26 @@ I'm particularly interested in building reproducible solutions for healthcare, c
 
 # What I'm Building
 
+<h1 align="center">What I'm Building</h1>
+
+<div align="center">
+
 ```text
-                         Raw Data
-                            │
-                            ▼
-                      Data Pipelines
-                            │
-                            ▼
-                    Statistical Models
-                            │
-                            ▼
-                 Interactive Applications
-                            │
-                            ▼
-                    Decision Support
+             Raw Data
+                 │
+                 ▼
+         Data Pipelines
+                 │
+                 ▼
+     Statistical Models
+                 │
+                 ▼
+   Interactive Applications
+                 │
+                 ▼
+        Decision Support
 ```
+</div>
 
 Current areas of interest
 
