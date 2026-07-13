@@ -91,6 +91,35 @@ Current areas of interest
 
 ---
 
+# Tech Stack
+
+### Statistical Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,r"/>
+<img src="https://img.shields.io/badge/SAS-005CAA?style=for-the-badge&logo=sas&logoColor=white">
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite"/>
+</p>
+
+### Data Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github"/>
+</p>
+
+### Development Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+</p>
+
+---
+
 ## Clinical Trial Data
 
 * CDISC SDTM
