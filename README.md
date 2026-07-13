@@ -6,118 +6,142 @@
 
 # 👨‍💻 Jean Mendes
 
+### Building software for data-intensive problems.
+
+**R • SAS • Python • Statistics • Data Engineering • Clinical Programming**
+
+<br>
+
+<a href="https://linkedin.com/in/jean-mendes-0a455680/?locale=en_US">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
 ---
 
 # About
 
 I build software that transforms complex data into scalable, reproducible and maintainable analytical systems.
 
-My interests lie at the intersection of
+My work combines **Statistics**, **Clinical Programming**, **Data Engineering**, and **Software Development** to create tools that automate analytical workflows and support data-driven decision making.
 
-- Clinical Programming
-- Statistical Computing
-- Data Engineering
-- Data Visualization
-
-I enjoy designing tools, automation pipelines and analytical applications that make data easier to understand, explore and trust.
+I'm particularly interested in building reproducible solutions for healthcare, clinical research and scientific computing.
 
 ---
 
 # What I'm Building
 
 ```text
-Raw Data
-    │
-    ▼
- Data Pipelines
-    │
-    ▼
- Statistical Models
-    │
-    ▼
- Interactive Applications
-    │
-    ▼
- Decision Support
-````
+             Raw Data
+                 │
+                 ▼
+         Data Pipelines
+                 │
+                 ▼
+     Statistical Models
+                 │
+                 ▼
+   Interactive Applications
+                 │
+                 ▼
+        Decision Support
+```
 
 Current areas of interest
 
-* Statistical Programming (R & SAS)
-* CDISC (SDTM & ADaM)
-* Python Applications
-* Interactive Dashboards
-* Data Pipelines
-* Reproducible Analytics
-* Open Source Projects
+- Statistical Programming (R, SAS & Python)
+- Clinical Programming (CDISC SDTM & ADaM)
+- Data Engineering
+- Interactive Applications
+- Reproducible Analytics
+- Open Source Software
 
 ---
 
 # Tech Stack
 
-### Programming Languages
+<h3>Statistical Programming</h3>
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=python,r,rstudio"/>
-<img src="https://img.shields.io/badge/SAS-005CAA?style=for-the-badge&logo=sas&logoColor=white">
+
+<img height="40" src="https://img.shields.io/badge/SAS-005CAA?style=for-the-badge&logo=sas&logoColor=white">
+
 </p>
 
-### Databases
+<h3>Databases</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite"/>
+
 </p>
 
-### Tools & Development
+<h3>Tools & Development</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
+
 </p>
 
 ---
 
-## Clinical Trial Data
+# Clinical Programming
 
-* CDISC SDTM
-* CDISC ADaM
-* Clinical Data Engineering
-* Statistical Programming
-* Data Validation
-* QC Programming
-* TLF Support
-  
----
-
-## Data Engineering
-
-* PostgreSQL
-* DuckDB
-* Apache Arrow
-* Parquet
-* SQL
-* Pandas
-* Polars
+- CDISC SDTM
+- CDISC ADaM
+- Clinical Data Engineering
+- Statistical Programming
+- QC Programming
+- Data Validation
+- TLF Programming
 
 ---
 
-## Statistics
+# Data Engineering
 
-* Regression
-* Statistical Modeling
-* Experimental Design
-* Longitudinal Analysis
-* Bayesian Statistics
-* Data Exploration
-* Data Visualization
+- PostgreSQL
+- DuckDB
+- SQL
+- Apache Arrow
+- Parquet
+- Pandas
+- Polars
 
 ---
 
-## Visualization
+# Statistics
 
-* Streamlit
-* Plotly
-* Quarto
-* Shiny
+- Regression Analysis
+- Longitudinal Analysis
+- Mixed Models
+- Survival Analysis
+- Bayesian Statistics
+- Experimental Design
+- Statistical Computing
+
+---
+
+# Data Visualization
+
+- Streamlit
+- Plotly
+- Shiny
+- Quarto
+- Graphic Walker
+
+---
+
+# Currently Building
+
+- 🌍 GeoHealthTech
+- 🧬 Clinical Trial Explorer
+- 📊 SDTM Dataset Generator
+- ⚙️ Clinical Programming Toolkit
+- 📈 Statistical Computing Projects
 
 ---
 
@@ -130,5 +154,17 @@ Current areas of interest
 </p>
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/jeanmendes-dev/jeanmendes-dev/output/github-contribution-grid-snake-dark.svg">
+
 </p>
+
+---
+
+# Philosophy
+
+> Good software is not only about writing code.
+>
+> It is about building systems that people can understand, reproduce and improve.
+
+---
