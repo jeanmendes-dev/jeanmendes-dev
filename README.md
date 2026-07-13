@@ -65,7 +65,7 @@ Current areas of interest
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,r,rstudio"/>
+<img src="https://skillicons.dev/icons?i=python,r"/>
 
 <img height="40" src="https://img.shields.io/badge/SAS-005CAA?style=for-the-badge&logo=sas&logoColor=white">
 
