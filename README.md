@@ -6,15 +6,6 @@
 
 # 👨‍💻 Jean Mendes
 
-<br>
-
-<a href="https://linkedin.com/in/jean-mendes-0a455680/?locale=en_US">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-
-</div>
-
----
-
 # About
 
 I build software that transforms complex data into scalable, reproducible and maintainable analytical systems.
