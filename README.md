@@ -35,21 +35,20 @@ I'm particularly interested in building reproducible solutions for healthcare, c
 ```mermaid
 flowchart TD
 
-A[📥 Raw Data]
-B[⚙️ Data Pipelines]
-C[📊 Statistical Models]
-D[🌐 Interactive Applications]
-E[🎯 Decision Support]
+A["📥 Raw Data"]
+B["⚙️ Data Pipelines"]
+C["📊 Statistical Programming"]
+D["🌐 Interactive Applications"]
+E["🎯 Decision Support"]
 
 A --> B
 B --> C
 C --> D
 D --> E
-
 ```
 </div>
 
-Current areas of interest
+Core Areas
 
 - Statistical Programming (R, SAS & Python)
 - Clinical Programming (CDISC SDTM & ADaM)
