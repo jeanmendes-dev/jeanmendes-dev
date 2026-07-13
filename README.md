@@ -33,19 +33,19 @@ I'm particularly interested in building reproducible solutions for healthcare, c
 # What I'm Building
 
 ```text
-             Raw Data
-                 │
-                 ▼
-         Data Pipelines
-                 │
-                 ▼
-     Statistical Models
-                 │
-                 ▼
-   Interactive Applications
-                 │
-                 ▼
-        Decision Support
+                         Raw Data
+                            │
+                            ▼
+                      Data Pipelines
+                            │
+                            ▼
+                    Statistical Models
+                            │
+                            ▼
+                 Interactive Applications
+                            │
+                            ▼
+                    Decision Support
 ```
 
 Current areas of interest
