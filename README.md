@@ -2,8 +2,6 @@
 <!--                    GitHub Profile README                  -->
 <!-- ========================================================= -->
 
-<div align="center">
-
 # 👨‍💻 Jean Mendes
 
 ### Building software for data-intensive problems.
