@@ -32,24 +32,20 @@ I'm particularly interested in building reproducible solutions for healthcare, c
 
 # What I'm Building
 
-<h1 align="center">What I'm Building</h1>
+```mermaid
+flowchart TD
 
-<div align="center">
+A[📥 Raw Data]
+B[⚙️ Data Pipelines]
+C[📊 Statistical Models]
+D[🌐 Interactive Applications]
+E[🎯 Decision Support]
 
-```text
-             Raw Data
-                 │
-                 ▼
-         Data Pipelines
-                 │
-                 ▼
-     Statistical Models
-                 │
-                 ▼
-   Interactive Applications
-                 │
-                 ▼
-        Decision Support
+A --> B
+B --> C
+C --> D
+D --> E
+
 ```
 </div>
 
