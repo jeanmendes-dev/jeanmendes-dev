@@ -6,8 +6,6 @@
 
 # 👨‍💻 Jean Mendes
 
-**R • SAS • Python • Statistics • Data Engineering • Clinical Programming**
-
 <br>
 
 <a href="https://linkedin.com/in/jean-mendes-0a455680/?locale=en_US">
