@@ -6,6 +6,8 @@
 
 # 👨‍💻 Jean Mendes
 
+---
+
 # About
 
 I build software that transforms complex data into scalable, reproducible and maintainable analytical systems.
