@@ -74,19 +74,13 @@ Current areas of interest
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,r,postgresql"/>
+<img src="https://skillicons.dev/icons?i=python,r,postgresql,git,github,vscode,docker"/>
 
 <img src="https://img.shields.io/badge/SAS-005CAA?style=for-the-badge&logo=sas&logoColor=white">
 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SAS](https://img.shields.io/badge/SAS-005CAA?style=for-the-badge&logo=sas&logoColor=white))
+
 </p>
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jean-mendes-0a455680) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeanmlvieira@hotmail.com) 
-
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ---
 
@@ -132,16 +126,6 @@ Current areas of interest
 * Plotly
 * Quarto
 * Shiny
-
----
-
-## Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
-
-</p>
 
 ---
 
