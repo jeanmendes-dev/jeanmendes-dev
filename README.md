@@ -8,7 +8,7 @@
 
 ### Building software for data-intensive problems.
 
-**R • SAS • Python • Statistics • Data Engineering • Clinical Programming**
+**Clinical Programming • Statistical Computing • Data Engineering • Healthcare Analytics**
 
 <br>
 
