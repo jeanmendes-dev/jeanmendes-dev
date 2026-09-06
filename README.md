@@ -2,7 +2,7 @@
 
 # Jean Mendes
 
-### Statistical Programming · Clinical Data 
+### Statistical Programmer 
 
 Building reproducible software and analytical systems for
 **clinical research, healthcare and data-intensive problems.**
