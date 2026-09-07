@@ -9,10 +9,6 @@ Building reproducible software and analytical systems for
 
 <br>
 
-<a href="[https://linkedin.com/in/jean-mendes-0a455680/?locale=en_US]">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
 </div>
 
 ---
