@@ -1,6 +1,6 @@
 <!-- =========================================================
      JEAN MENDES — GITHUB PROFILE
-     Clinical Data • Statistical Programming • Data Engineering
+     Statistical Programming • Data Engineering
 ========================================================== -->
 
 <!-- HERO -->
@@ -20,10 +20,6 @@
 
 <a href="https://www.linkedin.com/in/jean-mendes-0a455680/?locale=en-US">
   <img src="https://img.shields.io/badge/LinkedIn-Jean%20Mendes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/jeanmendes-dev">
-  <img src="https://img.shields.io/badge/GitHub-jeanmendes--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
