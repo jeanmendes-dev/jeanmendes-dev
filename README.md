@@ -29,16 +29,13 @@
 
 ## About Me
 
-I work at the intersection of **Clinical Data, Statistical Programming and Data Engineering**, with a background in **Biostatistics** and experience working with clinical and analytical data.
+I work at the intersection of **Statistical Programming and Data Engineering**, with a background in **Biostatistics** and experience working with clinical and analytical data.
 
 My focus is on building reliable and reproducible workflows that transform complex data into structured, validated and analysis-ready information.
 
 I am particularly interested in the connection between:
 
 ```text
-Clinical Data
-     │
-     ▼
 Data Engineering ──────► Data Quality
      │                       │
      ▼                       ▼
