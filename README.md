@@ -11,7 +11,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+reliable+data+pipelines.;Clinical+programming+data+with+SAS%2C+R+and+Python.;Turning+complex+data+into+analysis-ready+information.;Clinical+Data+%2B+Statistics+%2B+Engineering."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+reliable+data+pipelines.;Clinical+programming+with+SAS%2C+R+and+Python.;Turning+complex+data+into+analysis-ready+information.;Clinical+Data+%2B+Statistics+%2B+Engineering."
     alt="Typing SVG"
   />
 </a>
