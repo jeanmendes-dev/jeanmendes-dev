@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:0891b2&text=Jean%20Mendes&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Statistical%20Programming%20%7C%20Data%20Engineering%20%7C%20Analytics%20Visualization&descAlignY=60&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:0891b2&text=Jean%20Mendes&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Statistical%20Programming%20%7C%20Data%20Engineering%20%7C%20Analytics%20%7C%20Visualization&descAlignY=60&descSize=17&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
   <img
